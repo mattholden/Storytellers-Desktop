@@ -1,0 +1,250 @@
+<?xml version='1.0' standalone='no'?>
+
+<object  xmlns="http://org.slage.xml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://org.slage.xml ../../../../xml/slageXMLElementSchema.xsd"
+ 	name="vader lightsaber" quantity="2" >
+     
+     
+    <position x="2" y="40" z="1" />
+    <inventoryImage name="org?slage_tests?content?duke_wave.gif" />
+    <cursorImage name="org?slage_tests?content?duke_wave2.gif" />     
+    
+    <clickBoundary z="5"> 
+        <point x="0" y="0" />
+        <point x="32" y="42" /> 
+        <point x="0" y="53" />
+    </clickBoundary>
+    
+    <collisionBoundary z="3"> 
+        <point x="0" y="0" />
+        <point x="10" y="0" /> 
+        <point x="10" y="10" />
+        <point x="0" y="10" />
+    </collisionBoundary>  
+           
+<description type="org.slage.parser.AdjectiveNounDescription">
+           
+    <descriptor>
+        <adjective value="light blue" />
+        <synonym value="weapon" />
+    </descriptor> 
+</description>
+     
+    <template name="small template">
+        <sceneImage name="org?slage_tests?content?buckazoid_sq4.gif" />
+             
+       <state name="Door Open">
+		  <boolean value="true" />
+	       </state>
+
+	       <state name="Current Score">
+		  <int value="304" />
+	       </state>
+
+	       <state name="Time to Go">
+		  <long value="4209420824" />
+       </state>
+        
+           <handler type="org.slage.handlers.ResponseHandler" points="12">
+              <verb value="look" />
+        
+              <verb value="examine" />
+        
+              <string name="text" value="It's one of the darker shades of red" />
+        
+              <string name="sound" value="org?slage_tests?content?congratulations-escaped.ogg" />
+           </handler>
+    </template>
+    
+    <template name="test template">
+
+       <template name="nested template">       
+       
+               
+	    
+	         <state name="What a Character">
+	            <char value="b" />
+	         </state>
+	      
+	         <state name="A Byte Out of Crime">
+	            <byte value="120" />
+	         </state>
+	      
+	         <state name="Short Circuit">
+	            <short value="32000" />
+	         </state>
+    
+
+	       <handler type="org.slage.handlers.PlaySoundHandler">
+       		   <verb value="sing" />
+    
+       		   <string name="sound" value="org?slage_tests?content?congratulations-escaped.ogg" />
+        	</handler>
+    
+        	<handler type="org.slage.handlers.ChangeAnimationHandler" points="5">
+        	   <verb value="run" />
+    
+       	           <string name="animation" value="rogerRunning" />
+                </handler>
+                
+	</template>    
+     
+       <state name="Life Preserver">
+          <float value="42.42" />
+       </state>
+    
+       <state name="Double your Pleasure, Double your Fun">
+          <double value="1.2" />
+       </state>
+    
+       <state name="Big Int">
+          <bigInteger value="12345678901234567890" />
+       </state>
+    
+       <state name="Big Dec">
+          <bigDecimal value="1234567890123456.7890" />
+       </state>
+    
+       <state name="Intelligence in Washington">
+          <null />
+       </state>
+    
+       <state name="Data Cartridge Title">
+          <string value="I'm an Oscar Meyer Wiener" />
+       </state>
+    
+       <state name="Console Background Color">
+          <colour red="1" green="2" blue="3" alpha="4" />
+       </state>
+    
+       <state name="Console Font">
+          <font face="Arial Bold" size="10" style="plain" />
+       </state>
+    
+       <state name="bold Font">
+          <font face="Arial Bold" size="10" style="bold" />
+       </state>
+    
+    
+        <handler type="org.slage.handlers.QuitHandler">
+                   <verb value="quit" />
+                </handler>
+             
+                <handler type="org.slage.handlers.PauseHandler"  visibleToVocab="false" >
+                   <verb value="pause" />
+                </handler>
+             
+                <handler type="org.slage.handlers.ToggleDebugHandler">
+                   <verb value="__toggleDebug" />
+       </handler>
+       
+    </template>     
+     
+            <state name="italic font">
+               <font face="Arial Bold Italic" size="10" style="italic" />
+            </state>
+         
+            <state name="bold and italic font">
+               <font face="Arial Bold" size="10" style="bold+italic" />
+            </state>
+
+            <state name="complex object">
+              <boundary z="5">
+                 <point x="0" y="0" />
+        
+                 <point x="32" y="42" />
+        
+                 <point x="0" y="53" />
+              </boundary>
+           </state>
+         
+         
+	    <state name="Rectangle">
+	       <rectangle x="1" y="2" z="3" width="10" height="20" />
+      </state>
+       
+       <handler type="org.slage.handlers.WindowChangeHandler">
+          <verb value="__windowChange" />
+       </handler>
+    
+       <handler type="org.slage.handlers.FocusConsoleHandler">
+          <verb value="__focusConsole" />
+       </handler>
+    
+       <handler type="org.slage.handlers.TakeObjectHandler" points="50">
+          <verb value="take" />
+       </handler>
+    
+       <handler type="org.slage.handlers.SetPositionHandler">
+          <verb value="teleport" />
+    
+          <position x="11" y="22" z="33" />
+       </handler>
+    
+       <handler type="org.slage.handlers.ScrollHandler">
+          <verb value="__scroll" />
+    
+          <integer name="x" value="5" />
+    
+          <integer name="y" value="10" />
+       </handler>
+    
+       <handler type="org.slage.handlers.LockViewportHandler">
+          <verb value="__lockViewport" />
+       </handler>
+    
+       <handler type="org.slage.handlers.SetStateHandler">
+          <verb value="close" />
+    
+          <state name="Door Open">
+             <boolean value="false" />
+          </state>
+   	</handler>
+   	 
+        
+       
+       
+</object>
+              
+
+
+<!--/****** BEGIN LICENSE BLOCK *****
+* Version: MPL 1.1/GPL 2.0/LGPL 2.1
+*
+* The contents of this file are subject to the Mozilla Public License Version
+* 1.1 (the "License"); you may not use this file except in compliance with
+* the License. You may obtain a copy of the License at
+* http://www.mozilla.org/MPL/
+*
+* Software distributed under the License is distributed on an "AS IS" basis,
+* WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+* for the specific language governing rights and limitations under the
+* License.
+*
+* The Original Code is Slage.
+*
+* The Initial Developer of the Original Code is
+* The SQ7.org project.
+* Portions created by the Initial Developer are Copyright (C) 2005
+* the Initial Developer. All Rights Reserved.
+*
+* Contributor(s):
+* Matt Holden (Matt@sq7.org)
+* Robert Wenner (Robert@sq7.org)
+* Jared Cope (Jared@sq7.org)  
+* Colin Davis (Colin@sq7.org)
+*
+* Alternatively, the contents of this file may be used under the terms of
+* either the GNU General Public License Version 2 or later (the "GPL"), or
+* the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+* in which case the provisions of the GPL or the LGPL are applicable instead
+* of those above. If you wish to allow use of your version of this file only
+* under the terms of either the GPL or the LGPL, and not to allow others to
+* use your version of this file under the terms of the MPL, indicate your
+* decision by deleting the provisions above and replace them with the notice
+* and other provisions required by the GPL or the LGPL. If you do not delete
+* the provisions above, a recipient may use your version of this file under
+* the terms of any one of the MPL, the GPL or the LGPL.
+*
+****** END LICENSE BLOCK ***** */-->

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="55"
+   name=""
+   committed-date="2005-11-15T17:23:54.784079Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/editor/menu"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="55"
+   name="NewSceneMenuItem.class"
+   text-time="2005-11-19T14:20:44.953125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="60e1c53a33fd2857251d4d663f8b34bf"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:16.296875Z"/>
+<entry
+   committed-rev="11"
+   name="EditorMenuBar.java"
+   text-time="2005-11-09T03:31:12.000000Z"
+   committed-date="2005-11-07T23:40:35.914401Z"
+   checksum="d0f69e6330d82705e07d5ee2e203760b"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:12.000000Z"/>
+<entry
+   committed-rev="4"
+   name="SaveMenuItem.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="7dd42b4df5ccc4970e16b2c6b98c875f"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="16"
+   name="FileMenu.java"
+   text-time="2005-11-09T03:31:12.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="af8bdb13fe813649a205cb4234eb7474"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:12.000000Z"/>
+<entry
+   committed-rev="55"
+   name="LoadMenuItem.class"
+   text-time="2005-11-19T14:20:44.968750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="f16171ee5f55b7534b2c1d0f72ee52d7"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:16.343750Z"/>
+<entry
+   committed-rev="55"
+   name="NewObjectMenuItem.class"
+   text-time="2005-11-19T14:20:44.984375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="da5f453f3e0f3109ede753a11d4dfc9f"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:16.375000Z"/>
+<entry
+   committed-rev="55"
+   name="NewActMenuItem.class"
+   text-time="2005-11-19T14:20:45.000000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="e108ea01d7e1bd01907308224742edcf"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:16.406250Z"/>
+<entry
+   committed-rev="55"
+   name="QuitMenuItem.class"
+   text-time="2005-11-19T14:20:45.031250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="64502c09d423aa4f4130b779a5f6dd46"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:16.437500Z"/>
+<entry
+   committed-rev="55"
+   name="NewGameMenuItem.class"
+   text-time="2005-11-19T14:20:45.046875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="9e680d4441c366ed15561894bb87fbe4"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:16.453125Z"/>
+<entry
+   committed-rev="4"
+   name="NewSceneMenuItem.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="171eb7336ba7d92f1b7518212096efda"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="55"
+   name="NewRoomMenuItem.class"
+   text-time="2005-11-19T14:20:45.062500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="a93a41bfa021ba61bec51d043ed769c2"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:16.484375Z"/>
+<entry
+   committed-rev="55"
+   name="NewMenuItem.class"
+   text-time="2005-11-19T14:20:45.093750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="aea5b1522b8b92de52982f6c8811b602"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:16.500000Z"/>
+<entry
+   committed-rev="16"
+   name="LoadMenuItem.java"
+   text-time="2005-11-09T03:31:12.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="2e30a3d2e408e16aa72f2197c542f587"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:12.000000Z"/>
+<entry
+   committed-rev="4"
+   name="NewObjectMenuItem.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="97b27091a0dc77aa25b52c174b310024"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="55"
+   name="EditorMenuBar.class"
+   text-time="2005-11-19T14:20:45.109375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="c9ec9e256cf33bf9b06020ea24f1ae9c"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:16.531250Z"/>
+<entry
+   committed-rev="16"
+   name="NewActMenuItem.java"
+   text-time="2005-11-09T03:31:12.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="8c6f4c336cce131de3fc01f29d4e446f"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:12.000000Z"/>
+<entry
+   committed-rev="4"
+   name="QuitMenuItem.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="d71c54cd388ef037737b2a80f592ee3a"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="55"
+   name="SaveMenuItem.class"
+   text-time="2005-11-19T14:20:45.140625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="d7c5305c26c0a8e2319e57c5414b0eea"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:16.546875Z"/>
+<entry
+   committed-rev="4"
+   name="NewGameMenuItem.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="095085de27b3d62dd037a8f3f0ab604f"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="55"
+   name="FileMenu.class"
+   text-time="2005-11-19T14:20:45.156250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="5b6cc577502e32005e7915eb243f0020"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:16.562500Z"/>
+<entry
+   committed-rev="4"
+   name="NewRoomMenuItem.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="1215659292601298deaba8756d71887b"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="4"
+   name="NewMenuItem.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="bee954bbdd51250b396d107ff73c97b1"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+</wc-entries>

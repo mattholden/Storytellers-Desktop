@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="73"
+   name=""
+   committed-date="2005-11-23T02:05:51.041801Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/pathfinding"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="4"
+   name="Vertex.class"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="a0eb2cd1074b5458537967ce7b4a5aef"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="BisecectingPolygonRouteBuilderTest.class"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="7e29650646fed252431a025bcae0f7d7"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="RoutesMap.class"
+   text-time="2005-11-19T14:20:40.468750Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="d4c600243d66abdd084dab7a8935f325"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="41"
+   name="AbstractRoutesMap.java"
+   text-time="2005-11-11T12:09:07.093750Z"
+   committed-date="2005-11-11T12:10:19.851048Z"
+   checksum="b7888f1761489560379b3c7ba20c6816"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="DenseRoutesMap$DistanceDecorator.class"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="8f1c6150746b0967888b3d3d3c82678e"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="55"
+   name="PathFactory.class"
+   text-time="2005-11-19T14:20:40.546875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="4ffb5146af81f340248b1f7dc6f08dd5"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:02.859375Z"/>
+<entry
+   committed-rev="4"
+   name="PathFinder.class"
+   text-time="2005-11-19T14:20:40.578125Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="44e54007e43636159b3af6ec0dc13626"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="PointBank.class"
+   text-time="2005-11-19T14:20:40.625000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="806c8667cb3d842588fac44de11a2252"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="DijkstraEngine$1.class"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="fee1ad150746d4d184c3079bfc861ef0"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="41"
+   name=".nbattrs"
+   text-time="2005-11-11T12:07:55.656250Z"
+   committed-date="2005-11-11T12:10:19.851048Z"
+   checksum="9331994b06b2e493b9b6df1ac5650db9"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="55"
+   name="PathFactory$PathImpl.class"
+   text-time="2005-11-19T14:20:40.687500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="02c8e5de6f098ea19309d15a79666045"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:02.953125Z"/>
+<entry
+   committed-rev="4"
+   name="RoutesMap.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="f37f3f18a7c8cf0ea3e57d90352f53e3"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="55"
+   name="Path.class"
+   text-time="2005-11-19T14:20:40.718750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="01429e23a67014f8edecc80e465be7df"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:02.984375Z"/>
+<entry
+   committed-rev="4"
+   name="PolyPoint.class"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="0a1f7e6c7598f2f8e88a65d69fa5b36b"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="55"
+   name="SparseRoutesMap.class"
+   text-time="2005-11-19T14:20:40.765625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="2ded879f4526ac5db5173139dba7b669"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:03.046875Z"/>
+<entry
+   committed-rev="4"
+   name="DenseRoutesMap.class"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="b7118af587ec834c78fb50cba2f1b4bd"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="Route.class"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="fcbe74d24c32cd39c617aa91bdb0abda"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="PathFactory.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="ce04e5c2bb632d5f1a58c2b9965efca2"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AbstractRoutesMap$WeightedPolygon.class"
+   text-time="2005-11-19T14:20:40.828125Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="34ca674737ebc5509c9b2205059b1c1f"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="PathFinder.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="e1f31b2aa319bcc3965736ad880c39b5"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="DijkstraEngine.class"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="5e8ad957e9814346cb1175ac9f85ab65"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="PointBank.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="ad8f3a3c329bc0f21d845c179e3ec4d0"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AbstractRoutesMap.class"
+   text-time="2005-11-19T14:20:40.875000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="0bc6b68f80a71af586f6a6194b7513f1"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="BisectingPolygonRouteBuilder.class"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="6988b540e7a01c4810a65af5fba67854"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   name="astar"
+   kind="dir"/>
+<entry
+   committed-rev="4"
+   name="Path.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="41a4deda1b2944cf78bb19e6af707fd2"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   name="handler"
+   kind="dir"/>
+<entry
+   committed-rev="4"
+   name="SparseRoutesMap.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="d7fea04bfc347b828a3b118bb63e7cb7"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="4"
+   name="VertexBank.class"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="06b15f531a3b41e60125ab7bc78be3e7"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+</wc-entries>

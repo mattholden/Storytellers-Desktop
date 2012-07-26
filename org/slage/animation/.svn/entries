@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="75"
+   name=""
+   committed-date="2005-11-23T03:29:00.497932Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/animation"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="75"
+   name="SpriteSheetAnimation.java"
+   text-time="2005-11-23T02:47:28.609375Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="4fa8e0b8754072cdf8b5b52c628e39a1"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:26.000000Z"/>
+<entry
+   committed-rev="28"
+   name="AdvanceAnimationHandler.java"
+   text-time="2005-11-09T03:31:00.000000Z"
+   committed-date="2005-11-09T02:33:11.186510Z"
+   checksum="912691c5884e3df44279f6fee2483e06"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:30:58.000000Z"/>
+<entry
+   committed-rev="55"
+   name="Animation.class"
+   text-time="2005-11-19T14:20:39.843750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="352222a2cb3a1115f028ac96869fd714"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:00.984375Z"/>
+<entry
+   committed-rev="75"
+   name="SingleSpriteFrame.class"
+   text-time="2005-11-23T03:28:48.875000Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="0d2e117f07b8464fa72b36e00c0837c1"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:01.046875Z"/>
+<entry
+   committed-rev="55"
+   name="AnimationController.class"
+   text-time="2005-11-19T14:20:39.921875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="46ecd733a8b2b2fae10ee9268e74c133"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:01.093750Z"/>
+<entry
+   committed-rev="4"
+   name="SingleSpriteAnimation.java"
+   text-time="2005-11-07T18:01:28.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="3fbbe324adaf0125cba1d601e753632a"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="75"
+   name="SpriteSheetFrame.java"
+   text-time="2005-11-23T02:49:52.062500Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="be4561f895dda44f2c5f28b41dcf4c8b"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:30:58.000000Z"/>
+<entry
+   committed-rev="75"
+   name=".nbattrs"
+   text-time="2005-11-23T02:45:35.093750Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="2ea65b02f6c785fb5beb56de97fcb060"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="55"
+   name="AnimationFrame.class"
+   text-time="2005-11-19T14:20:40.000000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="b5a5cf7bce0ed1651787879896e2f017"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:01.156250Z"/>
+<entry
+   committed-rev="16"
+   name="Animation.java"
+   text-time="2005-11-09T03:31:00.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="b25d98babdc30ed3e77c4b757b0b2015"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:00.000000Z"/>
+<entry
+   committed-rev="75"
+   name="SpriteSheetAnimation.class"
+   text-time="2005-11-23T03:28:47.656250Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="b6ba0ff61652944eb511f149e567ee88"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:01.234375Z"/>
+<entry
+   committed-rev="75"
+   name="SingleSpriteFrame.java"
+   text-time="2005-11-23T02:49:51.703125Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="084d5d08b0f7d3dde314941c18c0daaa"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="16"
+   name="AnimationController.java"
+   text-time="2005-11-09T03:31:00.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="ecdf23182dd05f9c67bd1718d8cf74e9"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:00.000000Z"/>
+<entry
+   committed-rev="55"
+   name="AdvanceAnimationHandler.class"
+   text-time="2005-11-19T14:20:40.046875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="b123f6e62269467cef90f401e281a45a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:01.281250Z"/>
+<entry
+   committed-rev="16"
+   name="AnimationFrame.java"
+   text-time="2005-11-09T03:31:00.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="caa2a512d185ef557cca3c7aea763b67"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:00.000000Z"/>
+<entry
+   committed-rev="55"
+   name="SingleSpriteAnimation.class"
+   text-time="2005-11-19T14:20:40.109375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="332c858290774bf0c9a4333c1f8477ce"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:01.343750Z"/>
+<entry
+   committed-rev="75"
+   name="SpriteSheetFrame.class"
+   text-time="2005-11-23T03:28:47.656250Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="2aec83ca43cd68d2df69160d64881d01"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:01.375000Z"/>
+</wc-entries>

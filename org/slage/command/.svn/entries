@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="75"
+   name=""
+   committed-date="2005-11-23T03:29:00.497932Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/command"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="16"
+   name="CommandHistory.java"
+   text-time="2005-11-09T03:31:10.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="019ea5421a9d32e6448762888e766404"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:10.000000Z"/>
+<entry
+   committed-rev="4"
+   name="StartPlaybackHandler.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="c77e140d3db7099cd1d4ddcef86396a4"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="85"
+   name="Command.class"
+   text-time="2005-11-27T21:37:54.000000Z"
+   committed-date="2005-11-27T21:34:36.161997Z"
+   checksum="eb12e79e64cd036f104cfb4a059bdb27"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:14.000000Z"
+   revision="85"/>
+<entry
+   committed-rev="4"
+   name="ResumePlaybackHandler.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="eb2c360adfc9090229985e20bb859e45"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="4"
+   name="Commander.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="27f9830025b098ab76befd036073eb70"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AdvancePlaybackHandler.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="d826bc4581263b9ec8fd0e3a03b2db06"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="55"
+   name="PausePlaybackHandler.class"
+   text-time="2005-11-19T14:20:43.406250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="de2c2532d717abb0c5ac98a246ce5987"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:13.812500Z"/>
+<entry
+   committed-rev="55"
+   name="PlaybackHandler.class"
+   text-time="2005-11-19T14:20:43.453125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="f4f7f4951a6c19449d09f03b032e3514"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:13.875000Z"/>
+<entry
+   committed-rev="55"
+   name="CommandPlayback.class"
+   text-time="2005-11-19T14:20:43.500000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="8ba638cb55295d709402b955e4e60445"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:13.921875Z"/>
+<entry
+   committed-rev="85"
+   name=".nbattrs"
+   text-time="2005-11-27T21:28:10.000000Z"
+   committed-date="2005-11-27T21:34:36.161997Z"
+   checksum="939eb4478575a7f1cefea00ab10a98b4"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:13.968750Z"
+   revision="85"/>
+<entry
+   committed-rev="55"
+   name="StopPlaybackHandler.class"
+   text-time="2005-11-19T14:20:43.562500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="ef75e97f4b553035c0894f3a21608ee0"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:14.031250Z"/>
+<entry
+   committed-rev="85"
+   name="Command.java"
+   text-time="2005-11-27T21:37:48.000000Z"
+   committed-date="2005-11-27T21:34:36.161997Z"
+   checksum="5a50dd96fdfbc54f66cfb890b3e56b94"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:10.000000Z"
+   revision="85"/>
+<entry
+   committed-rev="4"
+   name="PausePlaybackHandler.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="e06ec6a1b8edfcbf61046ca7f8a99e5e"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="55"
+   name="CommandHistory.class"
+   text-time="2005-11-19T14:20:43.609375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="06faf366eb5c3c18b4421d2cf3e34fa7"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:14.093750Z"/>
+<entry
+   committed-rev="7"
+   name="PlaybackHandler.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T02:37:50.751390Z"
+   checksum="13aa41db46604ab05c8d0d2328fbaf22"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="16"
+   name="CommandPlayback.java"
+   text-time="2005-11-09T03:31:10.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="12f56d0106f800e1021fc14812be99fb"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:10.000000Z"/>
+<entry
+   committed-rev="55"
+   name="StartPlaybackHandler.class"
+   text-time="2005-11-19T14:20:43.875000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="a317ae8a191cb826fd45e33ff4a6a052"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:14.125000Z"/>
+<entry
+   committed-rev="55"
+   name="ResumePlaybackHandler.class"
+   text-time="2005-11-19T14:20:44.078125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="707e71b820c3b4d0d1e443e5dd1d901a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:14.156250Z"/>
+<entry
+   committed-rev="4"
+   name="Commander.class"
+   text-time="2005-11-19T14:20:44.140625Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="5b08db19cce488b3a66049c8d8b2a8bf"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="55"
+   name="AdvancePlaybackHandler.class"
+   text-time="2005-11-19T14:20:44.218750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="8a6f9e37e7d42bd548af2a01703c2c36"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:14.187500Z"/>
+<entry
+   committed-rev="4"
+   name="StopPlaybackHandler.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="4847706811fdaf914fb01d85635d4673"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+</wc-entries>

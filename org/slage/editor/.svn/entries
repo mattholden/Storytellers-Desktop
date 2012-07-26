@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="75"
+   name=""
+   committed-date="2005-11-23T03:29:00.497932Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/editor"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="4"
+   name="TemplatesPanel.class"
+   text-time="2005-11-19T14:20:44.859375Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="ab3db7c3537cf88d81db07e98f22ae9a"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="7"
+   name="DescriptionPanel.java"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T02:37:50.751390Z"
+   checksum="8ea6085d42eaf389b65c1ef7e6e18fca"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="4"
+   name="RoomBoundsAndImagesPanel.class"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="6ed1ba37e5cd6dca2d6bb2c723047cb2"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="20"
+   name="ScheduledEventsPanel.java"
+   text-time="2005-11-09T03:31:18.000000Z"
+   committed-date="2005-11-08T23:21:24.789532Z"
+   checksum="dad07f1dfea6d6407c7688c4dd28fb98"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:10.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AnimationsPanel.class"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="51443200581d9b841dcb4dab87866841"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="55"
+   name="ToolbarPanel.class"
+   text-time="2005-11-19T14:20:44.875000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="cf158e0c7768b00b34a86d6716c90133"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:15.906250Z"/>
+<entry
+   committed-rev="4"
+   name="BoundsAndImagesPanel.class"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="f6e04bed096a76b98ab6fec4bf2c5af6"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="4"
+   name="SceneNodeGUI.java"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="146b418d377634ab1f3a29b3300d37a4"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="4"
+   name="RoomNodeGUI.class"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="dce18cbe641792f241b2c77a782aea20"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="4"
+   name="KeyActionsPanel.class"
+   text-time="2005-11-19T14:20:44.890625Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="4a858345ae92885d0618feb1fe88c919"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="20"
+   name="TemplatesPanel.java"
+   text-time="2005-11-09T03:31:18.000000Z"
+   committed-date="2005-11-08T23:21:24.789532Z"
+   checksum="6e92cca0dca6f77dba96afd8c8ee6226"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:10.000000Z"/>
+<entry
+   committed-rev="55"
+   name="SoundsPanel.class"
+   text-time="2005-11-19T14:20:44.921875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="afe5e4b2538bd88e417aaca83d7dfb5e"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:16.250000Z"/>
+<entry
+   committed-rev="41"
+   name="ObjectNodeGUI.java"
+   text-time="2005-11-11T11:58:18.562500Z"
+   committed-date="2005-11-11T12:10:19.851048Z"
+   checksum="5fe0bf0d028eb1a730f7faac8c55c95a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="20"
+   name="ToolbarPanel.java"
+   text-time="2005-11-09T03:31:18.000000Z"
+   committed-date="2005-11-08T23:21:24.789532Z"
+   checksum="8532113d2bf585697ecb809e956be2e6"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:10.000000Z"/>
+<entry
+   committed-rev="8"
+   name="StatesPanel.java"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T09:03:15.633111Z"
+   checksum="3c42fdcb759e9d0b98effca48ae095bc"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   name="menu"
+   kind="dir"/>
+<entry
+   committed-rev="7"
+   name="AsyncKeyActionsPanel.java"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T02:37:50.751390Z"
+   checksum="9e0fb486f94fa95f9e77fd86aa7564a8"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="55"
+   name="DescriptionPanel.class"
+   text-time="2005-11-19T14:20:45.203125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="2b9e76eacd60dbda427d43da437fba77"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:17.234375Z"/>
+<entry
+   committed-rev="8"
+   name="StateEditor.java"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T09:03:15.633111Z"
+   checksum="4fefe8a905add33004d5d4a5e3eddd2d"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="4"
+   name="RoomBoundsAndImagesPanel$1.class"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="ee9ed7f7b21eae93d76f2747dade4b7f"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:48.000000Z"/>
+<entry
+   committed-rev="55"
+   name="ScheduledEventsPanel.class"
+   text-time="2005-11-19T14:20:45.218750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="04eddc22037a48e6dc2ea8bc49d63fa8"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:17.265625Z"/>
+<entry
+   name="room"
+   kind="dir"/>
+<entry
+   committed-rev="75"
+   name="ObjectBoundsAndImagesPanel.class"
+   text-time="2005-11-23T03:28:46.453125Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="e4cb24fc1aaab32b38c652b9bbcd8923"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:17.781250Z"/>
+<entry
+   committed-rev="4"
+   name="JImagePanel.class"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="fd1cc7f96b416c6598c3d5d160453353"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="55"
+   name="StateList.class"
+   text-time="2005-11-19T14:20:45.515625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="bf8938629d92df56dea8b4c8bc7bd66a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.046875Z"/>
+<entry
+   committed-rev="55"
+   name="HandlersPanel.class"
+   text-time="2005-11-19T14:20:45.546875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="d5f3bc95e7df9fa5fb11bac25f58b034"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.062500Z"/>
+<entry
+   committed-rev="75"
+   name="ObjectNodeGUI.class"
+   text-time="2005-11-23T03:28:47.968750Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="54d57ae01a7de91eb16e4ceb3684b082"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.093750Z"/>
+<entry
+   committed-rev="55"
+   name="ActNodeGUI.class"
+   text-time="2005-11-19T14:20:45.625000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="9e634c24505cf5227c509d3bbbd89923"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.140625Z"/>
+<entry
+   committed-rev="55"
+   name="PlayersAndCharactersPanel.class"
+   text-time="2005-11-19T14:20:45.609375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="e37ed54866417d7d990702b6e04cfb78"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.109375Z"/>
+<entry
+   committed-rev="55"
+   name="StatesPanel.class"
+   text-time="2005-11-19T14:20:45.656250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="e369f4819a350ab18e5ed3696fb1cb8b"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.171875Z"/>
+<entry
+   committed-rev="55"
+   name="GameNodeGUI.class"
+   text-time="2005-11-19T14:20:45.703125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="46078316a64556f104e9410c3a8ff138"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.234375Z"/>
+<entry
+   name="gametree"
+   kind="dir"/>
+<entry
+   committed-rev="16"
+   name="ClickBoundaryPanel.java"
+   text-time="2005-11-09T03:31:18.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="d31b2eef8e61d42662d9c517fa5cf4c6"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:12.000000Z"/>
+<entry
+   committed-rev="4"
+   name="RoomImageEditor.class"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="58b7cba8a6239582c8e62951b2ec0813"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:52.000000Z"/>
+<entry
+   committed-rev="75"
+   name="ObjectBoundsAndImagesPanel.java"
+   text-time="2005-11-23T02:47:28.843750Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="8cfde311f6a48260e31ddc2923c0c04f"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="4"
+   name="Editor.class"
+   text-time="2005-11-19T14:20:46.796875Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="c530451b4ce97802f617a7d03074ed9c"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:52.000000Z"/>
+<entry
+   committed-rev="55"
+   name="AsyncKeyActionsPanel.class"
+   text-time="2005-11-19T14:20:46.812500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="a8d8c8183e6a6bced9c8f9a4c7f2d3e3"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:20.593750Z"/>
+<entry
+   committed-rev="55"
+   name="StateEditor.class"
+   text-time="2005-11-19T14:20:46.843750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="6f17edae7bcede5cde67905e219d35fb"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:20.625000Z"/>
+<entry
+   committed-rev="75"
+   name=".nbattrs"
+   text-time="2005-11-23T02:45:09.125000Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="4d848a87a8e9c6eb596f38515a8119b8"
+   last-author="jaeden"
+   kind="file"/>
+<entry
+   committed-rev="8"
+   name="StateList.java"
+   text-time="2005-11-07T18:01:56.000000Z"
+   committed-date="2005-11-07T09:03:15.633111Z"
+   checksum="4d60542936cee5207c8e16c8b3550746"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:52.000000Z"/>
+<entry
+   committed-rev="55"
+   name="StateListSelectionListener.class"
+   text-time="2005-11-19T14:20:46.875000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="d81a8093bf0136db895e1bae1c37f158"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:20.656250Z"/>
+<entry
+   name="actions"
+   kind="dir"/>
+<entry
+   committed-rev="20"
+   name="HandlersPanel.java"
+   text-time="2005-11-09T03:31:18.000000Z"
+   committed-date="2005-11-08T23:21:24.789532Z"
+   checksum="8d92ed1f454638c702b1b179ee2c739b"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="55"
+   name="EditorFileFilter.class"
+   text-time="2005-11-19T14:20:47.453125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="d6b7f45deaa08c82ed373134e3903db8"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:20.703125Z"/>
+<entry
+   committed-rev="41"
+   name="SLAGEGameEditor.class"
+   text-time="2005-11-11T12:09:27.015625Z"
+   committed-date="2005-11-11T12:10:19.851048Z"
+   checksum="043da207ecfa15b12436fc1ff9258698"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:52.000000Z"/>
+<entry
+   committed-rev="4"
+   name="StateListModel.class"
+   text-time="2005-11-09T03:30:52.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="f8439d4834732a3617b59b47fa584262"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:54.000000Z"/>
+<entry
+   committed-rev="20"
+   name="PlayersAndCharactersPanel.java"
+   text-time="2005-11-09T03:31:18.000000Z"
+   committed-date="2005-11-08T23:21:24.789532Z"
+   checksum="ff798bd9155d0f2031479ce359ee6f3f"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:18.000000Z"/>
+<entry
+   committed-rev="4"
+   name="ActNodeGUI.java"
+   text-time="2005-11-07T18:01:56.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="172ac353102adf909adf9bd003fc1813"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:54.000000Z"/>
+<entry
+   committed-rev="55"
+   name="VerbSynonymsPanel.class"
+   text-time="2005-11-19T14:20:47.484375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="761af7f6d55767cb67e0a4498cc08acd"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:22.265625Z"/>
+<entry
+   committed-rev="55"
+   name="ObjectBoundsAndImagesPanel$1.class"
+   text-time="2005-11-19T14:20:47.515625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="46d506bf93b6d9ce91489545be3ac288"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:22.406250Z"/>
+<entry
+   committed-rev="41"
+   name="GameNodeGUI.java"
+   text-time="2005-11-11T11:58:18.140625Z"
+   committed-date="2005-11-11T12:10:19.851048Z"
+   checksum="2628e619434d2a26417abb20b6cb7a14"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:54.000000Z"/>
+<entry
+   committed-rev="4"
+   name="Editor.java"
+   text-time="2005-11-07T18:01:56.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="284ffe649d900feb736a6d74a85ed26e"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:54.000000Z"/>
+<entry
+   committed-rev="20"
+   name="StateListSelectionListener.java"
+   text-time="2005-11-09T03:31:18.000000Z"
+   committed-date="2005-11-08T23:21:24.789532Z"
+   checksum="afb6ebd0143e002cdc93868641090891"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:18.000000Z"/>
+<entry
+   committed-rev="20"
+   name="KeyActionsPanel.java"
+   text-time="2005-11-09T03:31:18.000000Z"
+   committed-date="2005-11-08T23:21:24.789532Z"
+   checksum="aeaa3ab9c90ca6f18d195e342c9f7000"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:18.000000Z"/>
+<entry
+   committed-rev="4"
+   name="InputTabbedPane.class"
+   text-time="2005-11-07T18:01:56.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="b7e1b030c936d7708dee12091ae627ee"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:54.000000Z"/>
+<entry
+   committed-rev="20"
+   name="SoundsPanel.java"
+   text-time="2005-11-09T03:31:18.000000Z"
+   committed-date="2005-11-08T23:21:24.789532Z"
+   checksum="6493da43880089c28566ab33d785d911"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:18.000000Z"/>
+<entry
+   committed-rev="19"
+   name="EditorFileFilter.java"
+   text-time="2005-11-09T03:31:18.000000Z"
+   committed-date="2005-11-08T23:21:03.454226Z"
+   checksum="86aeaecb5b2c2e2dbfa8d5ecad1f9660"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:18.000000Z"/>
+<entry
+   committed-rev="55"
+   name="SceneNodeGUI.class"
+   text-time="2005-11-19T14:20:47.578125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="8639d136425b90dda35865494465ac76"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:22.593750Z"/>
+<entry
+   committed-rev="20"
+   name="SlageGameEditor.java"
+   text-time="2005-11-09T03:31:18.000000Z"
+   committed-date="2005-11-08T23:21:24.789532Z"
+   checksum="95f45c7350b442cdbc7f63f323bf4354"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:18.000000Z"/>
+<entry
+   committed-rev="55"
+   name="ClickBoundaryPanel.class"
+   text-time="2005-11-19T14:20:47.609375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="1c89cff10b31864b09bc68d52858665c"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:22.671875Z"/>
+<entry
+   committed-rev="20"
+   name="VerbSynonymsPanel.java"
+   text-time="2005-11-09T03:31:18.000000Z"
+   committed-date="2005-11-08T23:21:24.789532Z"
+   checksum="242247b6391dce2479a3cb03bc64ae56"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:18.000000Z"/>
+</wc-entries>

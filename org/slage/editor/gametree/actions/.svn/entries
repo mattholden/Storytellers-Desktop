@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="55"
+   name=""
+   committed-date="2005-11-15T17:23:54.784079Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/editor/gametree/actions"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="55"
+   name="NewSceneNodeAction.class"
+   text-time="2005-11-19T14:20:46.312500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="3ef97683a2fac83f9ad2a5b2ec2f6190"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.531250Z"/>
+<entry
+   committed-rev="4"
+   name="NewObjectAction.class"
+   text-time="2005-11-07T18:01:50.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="1ec1ef4233ca3e143ad3cbcb546f9c08"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="4"
+   name="NewActAction.class"
+   text-time="2005-11-07T18:01:50.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="50949c27ca5b16f959b987cf55f5aaba"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="4"
+   name="GameTreeSelectionListener.java"
+   text-time="2005-11-07T18:01:50.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="c0d82c3b81912347f032254c23b65efa"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="17"
+   name="DeleteNodeAction.java"
+   text-time="2005-11-09T03:31:14.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="26a46e1710c276ab5fa023f874af7558"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="4"
+   name="NewTemplateAction.class"
+   text-time="2005-11-07T18:01:50.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="f70e61d3700b227161f4b3868088388c"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="55"
+   name="NewObjectNodeAction.class"
+   text-time="2005-11-19T14:20:46.375000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="345a1561d0c37997c778699bb72edb56"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.609375Z"/>
+<entry
+   committed-rev="17"
+   name="GameTreeMouseListener.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="9f18d8c43630fee8cced0ac61254fcff"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="4"
+   name="NewRoomAction.class"
+   text-time="2005-11-07T18:01:52.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="b0d381dd421cfd34afec52f8bed0b113"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="55"
+   name="NewActNodeAction.class"
+   text-time="2005-11-19T14:20:46.406250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="491a9c93c1929e0c4ec048ca86459295"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.656250Z"/>
+<entry
+   committed-rev="17"
+   name="NewPlayerNodeAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="97a3d3011c60ef75b94fe1220e26a0f6"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="17"
+   name="NewCharacterNodeAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="23ceb32b60a9d011843ba559c8b1d0c2"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="17"
+   name="NewSceneNodeAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="742568769d5d1b7b7cdf79c9ddf94a0c"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="55"
+   name="NewRoomNodeAction.class"
+   text-time="2005-11-19T14:20:46.468750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="a424695c24f5387d1a0a10f8d26b16d4"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.703125Z"/>
+<entry
+   committed-rev="17"
+   name="NewObjectNodeAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="58cc7d8cb10a9e6d5198c3c4385c2202"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="17"
+   name="NewActNodeAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="2b6922cc87ab48180f305cc074cf778f"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="55"
+   name="GameTreeSelectionListener.class"
+   text-time="2005-11-19T14:20:46.515625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="c13ffc91a021b635e361fe6fe85eac6c"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.765625Z"/>
+<entry
+   committed-rev="4"
+   name="NewSceneAction.class"
+   text-time="2005-11-07T18:01:52.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="9b526c3f544ba889aeb266b03062511a"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="55"
+   name="DeleteNodeAction.class"
+   text-time="2005-11-19T14:20:46.546875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="f6097c90c8c6b3017959a3479b07938e"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.859375Z"/>
+<entry
+   committed-rev="17"
+   name="NewRoomNodeAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="e6b763ed3ec45dd0d4848c60ebac43a9"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="55"
+   name="GameTreeMouseListener.class"
+   text-time="2005-11-19T14:20:46.562500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="032aa1d9e314e79380994161d2ac0b23"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.890625Z"/>
+<entry
+   committed-rev="55"
+   name="NewPlayerNodeAction.class"
+   text-time="2005-11-19T14:20:46.593750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="95711b9a781ab0adab823b23cc00be29"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.937500Z"/>
+<entry
+   committed-rev="55"
+   name="NewCharacterNodeAction.class"
+   text-time="2005-11-19T14:20:46.656250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="1831fb1d8305692fdb1b18c55c127289"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.984375Z"/>
+</wc-entries>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="78"
+   name=""
+   committed-date="2005-11-23T21:44:19.981490Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/audio"
+   last-author="primitiveOrigin"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="85"
+   name="OggFile.class"
+   text-time="2005-11-24T04:17:20.000000Z"
+   committed-date="2005-11-27T21:34:36.161997Z"
+   checksum="e99425b93d66f86c680b2e2d3ab6fa68"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:10.000000Z"
+   revision="85"/>
+<entry
+   committed-rev="8"
+   name="SoundManager.java"
+   text-time="2005-11-07T18:01:34.000000Z"
+   committed-date="2005-11-07T09:03:15.633111Z"
+   checksum="d32228ce282261fb6c4d749bc4b4ebf4"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:34.000000Z"/>
+<entry
+   committed-rev="55"
+   name="SoundManager.class"
+   text-time="2005-11-19T14:20:42.062500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="7a2fa7d6b9f8c7ce10dbd10dfb0d14d2"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:10.218750Z"/>
+<entry
+   committed-rev="84"
+   name="SoundFile.java"
+   text-time="2005-11-24T01:47:44.375000Z"
+   committed-date="2005-11-24T02:07:17.329162Z"
+   checksum="9a9ada8d0d106a111bd32dbb107df109"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:08.000000Z"
+   revision="84"/>
+<entry
+   committed-rev="76"
+   name=".nbattrs"
+   text-time="2005-11-23T03:37:08.531250Z"
+   committed-date="2005-11-23T03:57:48.841608Z"
+   checksum="f4616847dbaab3d66e6dc482de82bb18"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:34.000000Z"/>
+<entry
+   committed-rev="78"
+   name="OggFile.java"
+   text-time="2005-11-24T02:06:45.750000Z"
+   committed-date="2005-11-23T21:44:19.981490Z"
+   checksum="03ea0558e0f6c8addb305ccbf3122458"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-24T02:06:45.687500Z"/>
+<entry
+   committed-rev="84"
+   name="SoundFile.class"
+   text-time="2005-11-24T01:53:32.984375Z"
+   committed-date="2005-11-24T02:07:17.329162Z"
+   checksum="7e2eb8b3463a99b0f4066d267e753182"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:10.265625Z"
+   revision="84"/>
+<entry
+   committed-rev="55"
+   name="SoundManager$1.class"
+   text-time="2005-11-19T14:20:42.140625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="af308dfec64a61194f5c99b1804e9d7b"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:10.281250Z"/>
+</wc-entries>

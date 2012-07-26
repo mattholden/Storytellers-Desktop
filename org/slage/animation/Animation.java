@@ -1,0 +1,292 @@
+/*
+ * Animation.java
+ *
+ * Created on August 1, 2005, 2:16 PM
+ */
+
+package org.slage.animation;
+
+import org.slage.SlageObject;
+import org.slage.framework.Point3D;
+import org.slage.framework.scheduler.RecurringEvent;
+import org.slage.framework.scheduler.ScheduledEvent;
+
+/**
+ * Abstract base class for an animation in 2D.
+ * 
+ * This class will maintain a list of AnimationFrames that will be cycled in
+ * order to achieve animated effects.
+ * 
+ * Animations can be set to loop, or not. Non-looping animations will be set to
+ * "not playing" (as determined by checking isPlaying() and put back at frame 0,
+ * so that the animation goes back to where it started. This behavior can be
+ * adjusted by calling setEndFrame(). This value will be ignored for looping
+ * animations.
+ * 
+ * @author <a href="mailto:Matt@SQ7.org">Matt Holden</a>
+ */
+public abstract class Animation  {
+
+	/** Logger instance */
+	protected static transient final org.apache.commons.logging.Log LOG = org.apache.commons.logging.LogFactory.getLog(Animation.class);
+
+	/** A list of all the Frames in the animation */
+	private java.util.ArrayList<AnimationFrame> listFrames = new java.util.ArrayList<AnimationFrame>();
+
+	/** The current frame we are on */
+	private int iCurrentFrame = 0;
+
+	/** 'true' if we should be looping */
+	private boolean bLooping = false;
+
+	/**
+	 * 'true' if the animation is playing. This should only be false if stop() is
+	 * called or we reach the end of a non-looping animation.
+	 */
+	private boolean bPlaying = false;
+
+	/** The duration of the entire animation, regardless of frame count */
+	private long lDurationInNanos = ScheduledEvent.NANOSEC_IN_SEC;
+
+	/** name of the animation */
+	private String strName;
+
+	/** The Object that owns this animation */
+	private transient SlageObject object;
+
+	/**
+	 * Construct a new animation
+	 * 
+	 * @param aName name of the animation
+	 * @param lDuration duration of the animation in nanoseconds
+	 */
+	public Animation(String aName, long lDuration) {
+		this.strName = aName;
+		lDurationInNanos = lDuration;
+	}
+
+	/** global priority for all animation */
+	public static transient final int ANIMATION_PRIORITY = 1000000;
+
+	/**
+	 * Add a frame to the animation
+	 * 
+	 * @param frame Frame to add
+	 */
+	public void addFrame(AnimationFrame frame) {
+		listFrames.add(frame);
+	}
+
+	/**
+	 * Make a RecurringEvent out of this animation
+	 * 
+	 * @return the event
+	 */
+	public RecurringEvent getEvent() {
+		RecurringEvent evt = new RecurringEvent(new AdvanceAnimationHandler(object, this), lDurationInNanos, ANIMATION_PRIORITY);
+
+		evt.setInterval(lDurationInNanos / listFrames.size());
+		return evt;
+	}
+
+	/** Advance to the next frame of the animation */
+	public void advance() {
+		// Don't advance if we're not playing
+		if (bPlaying == false)
+			return;
+
+		iCurrentFrame++;
+
+		// Set the current frame to 0 (to keep playing, if looping) or the end frame
+		// if we're not looping
+		if (iCurrentFrame >= listFrames.size()) {
+			iCurrentFrame = (bLooping) ? 0 : listFrames.size() - 1;
+			if (bLooping == false)
+				stop();
+		}
+
+	}
+
+	/**
+	 * Draw the current frame of the animation at the given position
+	 * 
+	 * @param G2D 2D graphics interface
+	 * @param P3D position to draw at
+	 */
+	public void draw(java.awt.Graphics2D G2D, Point3D P3D) {
+		getCurrentFrame().draw(G2D, P3D);
+	}
+
+	/**
+	 * Accessor for the duration
+	 * 
+	 * @return lDurationInNanos
+	 */
+	public long getDuration() {
+		return lDurationInNanos;
+	}
+
+	/**
+	 * Mutator for the duration
+	 * 
+	 * @param lDuration duration in nanosecods
+	 */
+	public void setDuration(long lDuration) {
+		lDurationInNanos = lDuration;
+	}
+
+	/**
+	 * Check if the animation should loop after the last frame
+	 * 
+	 * @return 'true' if we should loop
+	 */
+	public boolean isLooping() {
+		return bLooping;
+	}
+
+	/**
+	 * Set whether the animation is looping
+	 * 
+	 * @param bLoop looping?
+	 */
+	public void setLooping(boolean bLoop) {
+		this.bLooping = bLoop;
+	}
+
+	/**
+	 * Accessor for name of animation
+	 * 
+	 * @return animation name
+	 */
+	public String getName() {
+		return strName;
+	}
+
+	/**
+	 * mutator for name of animation
+	 * 
+	 * @param aName animation name
+	 */
+	public void setName(String aName) {
+		this.strName = aName;
+	}
+
+	/**
+	 * Accessor for current frame object
+	 * 
+	 * @return current frame, or NULL if the animation isn't playing
+	 */
+	public AnimationFrame getCurrentFrame() {
+		return (iCurrentFrame == -1) ? null : (AnimationFrame) listFrames.get(iCurrentFrame);
+	}
+
+	/**
+	 * Accessor for current frame index
+	 * 
+	 * @return iCurrentFrame
+	 */
+	public int getCurrentFrameIndex() {
+		return iCurrentFrame;
+	}
+
+	/** Reset the animation to the beginning */
+	public void reset() {
+		iCurrentFrame = 0;
+		bPlaying = true;
+	}
+
+	/**
+	 * See if the animation is currently playing
+	 * 
+	 * @return true if the animation is playing
+	 */
+	public boolean isPlaying() {
+		return bPlaying;
+	}
+
+	/** start playing the animation (from the current frame) */
+	public void start() {
+		bPlaying = true;
+	}
+
+	/** Stop playing the animation (leave it on the current frame) */
+	public void stop() {
+		bPlaying = false;
+	}
+
+	/**
+	 * Getter for property object.
+	 * 
+	 * @return Value of property object.
+	 */
+	public org.slage.SlageObject getObject() {
+		return object;
+	}
+
+	/**
+	 * Setter for property object.
+	 * 
+	 * @param anObject New value of property object.
+	 */
+	public void setObject(org.slage.SlageObject anObject) {
+		this.object = anObject;
+	}
+
+	/** Clear the frames */
+	public void clearFrames() {
+		listFrames.clear();
+	}
+
+	/**
+	 * Remove a frame
+	 * 
+	 * @param frame Frame to remove
+	 */
+	public void removeFrame(AnimationFrame frame) {
+		listFrames.remove(frame);
+	}
+
+	/**
+	 * Get the count of frames
+	 * 
+	 * @return listFrames.size()
+	 */
+	public int getFrameCount() {
+		return listFrames.size();
+	}
+
+}
+/*******************************************************************************
+ * BEGIN LICENSE BLOCK **** Version: MPL 1.1/GPL 2.0/LGPL 2.1
+ * 
+ * The contents of this file are subject to the Mozilla Public License Version
+ * 1.1 (the "License"); you may not use this file except in compliance with the
+ * License. You may obtain a copy of the License at http://www.mozilla.org/MPL/
+ * 
+ * Software distributed under the License is distributed on an "AS IS" basis,
+ * WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for
+ * the specific language governing rights and limitations under the License.
+ * 
+ * The Original Code is Slage.
+ * 
+ * The Initial Developer of the Original Code is The SQ7.org project. Portions
+ * created by the Initial Developer are Copyright (C) 2005 the Initial
+ * Developer. All Rights Reserved.
+ * 
+ * Contributor(s): Matt Holden (Matt@sq7.org) Travis Savo (Travis@sq7.org)
+ * Robert Wenner (Robert@sq7.org) Jared Cope (Jared@sq7.org) Colin Davis
+ * (Colin@sq7.org)
+ * 
+ * Alternatively, the contents of this file may be used under the terms of
+ * either the GNU General Public License Version 2 or later (the "GPL"), or the
+ * GNU Lesser General Public License Version 2.1 or later (the "LGPL"), in which
+ * case the provisions of the GPL or the LGPL are applicable instead of those
+ * above. If you wish to allow use of your version of this file only under the
+ * terms of either the GPL or the LGPL, and not to allow others to use your
+ * version of this file under the terms of the MPL, indicate your decision by
+ * deleting the provisions above and replace them with the notice and other
+ * provisions required by the GPL or the LGPL. If you do not delete the
+ * provisions above, a recipient may use your version of this file under the
+ * terms of any one of the MPL, the GPL or the LGPL.
+ * 
+ ******************************************************************************/

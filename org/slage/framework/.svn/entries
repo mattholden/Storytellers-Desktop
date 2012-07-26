@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="75"
+   name=""
+   committed-date="2005-11-23T03:29:00.497932Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/framework"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="73"
+   name="NotFoundException.class"
+   text-time="2005-11-23T02:03:48.328125Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="19ba3dcdc574caf8d19093153bc02cee"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.187500Z"/>
+<entry
+   committed-rev="75"
+   name="SlageFrameworkObject.java"
+   text-time="2005-11-23T03:05:10.750000Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="02a8b9a2e78c23cfae91f21592ecbe2c"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:04.750000Z"/>
+<entry
+   committed-rev="66"
+   name="Attribute.java"
+   text-time="2005-11-19T06:28:57.906250Z"
+   committed-date="2005-11-19T14:18:07.620964Z"
+   checksum="2e84860b0903bc8e8a6ce7579c2dc39a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="4"
+   name="Drawable.class"
+   text-time="2005-11-07T18:01:32.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="0e1f3646a6b377a99afe7bd96a404a5d"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="56"
+   name="NamedObject.java"
+   text-time="2005-11-16T17:25:44.812500Z"
+   committed-date="2005-11-16T21:04:13.142224Z"
+   checksum="64e129116094b4f0c1bbe39d0a4dfbc3"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="73"
+   name="SlageFrameworkException.class"
+   text-time="2005-11-23T02:03:48.328125Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="deaeb3c3bec13643eb8bd00830d3c0b6"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.281250Z"/>
+<entry
+   committed-rev="55"
+   name="FrameworkHandler.class"
+   text-time="2005-11-16T14:29:06.234375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="85a421689a70d0024af1246ebdf0ca42"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:05.046875Z"/>
+<entry
+   committed-rev="85"
+   name="FrameworkCommand.class"
+   text-time="2005-11-27T21:35:44.000000Z"
+   committed-date="2005-11-27T21:34:36.161997Z"
+   checksum="258bcfe97a831235843d742ae24cdc0d"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-27T21:39:38.000000Z"
+   revision="85"/>
+<entry
+   committed-rev="75"
+   name="Tools.class"
+   text-time="2005-11-23T03:28:47.968750Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="33caff2cfc2120614b5f182e8d65ac53"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:05.296875Z"/>
+<entry
+   committed-rev="67"
+   name="VerbSynonymList.java"
+   text-time="2005-11-19T14:19:49.078125Z"
+   committed-date="2005-11-19T14:21:46.114557Z"
+   checksum="11ee5718839a2bd98aa05619923f8ba1"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:02.000000Z"/>
+<entry
+   committed-rev="73"
+   name="Attribute.class"
+   text-time="2005-11-23T02:03:48.296875Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="566a01c0bf63a81fbec5635c3f51add4"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:05.328125Z"/>
+<entry
+   committed-rev="41"
+   name="SlageFrameworkException.java"
+   text-time="2005-11-11T12:05:26.421875Z"
+   committed-date="2005-11-11T12:10:19.851048Z"
+   checksum="1e87bd5877fca2f040692131aefc461a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="67"
+   name="Vector3D.java"
+   text-time="2005-11-19T14:21:37.812500Z"
+   committed-date="2005-11-19T14:21:46.114557Z"
+   checksum="8e52e07da3e10ae93964692d7e21567f"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-19T14:20:51.250000Z"/>
+<entry
+   committed-rev="67"
+   name="Rectangle3D.java"
+   text-time="2005-11-19T14:19:49.343750Z"
+   committed-date="2005-11-19T14:21:46.114557Z"
+   checksum="dbb417926c211a72bb209f0a65817b2d"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="85"
+   name="FrameworkCommand.java"
+   text-time="2005-11-27T21:35:38.000000Z"
+   committed-date="2005-11-27T21:34:36.161997Z"
+   checksum="ea349b3a8286b5425d153d7fe580fa0d"
+   last-author="jaeden"
+   kind="file"
+   revision="85"/>
+<entry
+   committed-rev="4"
+   name="Clickable.class"
+   text-time="2005-11-07T18:01:32.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="1de0fd6cda83fdfcd653c5fa3fb3c772"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="16"
+   name="LinkedObject.java"
+   text-time="2005-11-09T03:31:04.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="e7e5c4016e64c1f6eb422fe48762cfda"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:02.000000Z"/>
+<entry
+   committed-rev="73"
+   name="TextFontColor.class"
+   text-time="2005-11-23T02:03:48.734375Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="6bfce6d9ab4b96fda9ec84ee88d6b004"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:05.375000Z"/>
+<entry
+   committed-rev="55"
+   name="NamedObject.class"
+   text-time="2005-11-07T18:01:32.000000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="1d7a5c9776b67e67cbbd9b07d0ae3d9c"
+   last-author="jaeden"
+   kind="file"
+   conflict-new="NamedObject.class.r55"
+   prop-time="2005-11-16T14:29:04.687500Z"
+   conflict-old="NamedObject.class.r47"/>
+<entry
+   committed-rev="75"
+   name="Tools.java"
+   text-time="2005-11-23T03:22:56.046875Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="b3d60772fb28933578808440d927a99a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:02.000000Z"/>
+<entry
+   committed-rev="73"
+   name="Point3D.class"
+   text-time="2005-11-23T02:03:48.234375Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="28370adec05d685619fb78496c4c83e9"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.203125Z"/>
+<entry
+   committed-rev="73"
+   name="SlageFrameworkObjectVisitor.class"
+   text-time="2005-11-23T02:03:48.296875Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="09cbda2748152df52fb8d65ac56669a5"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.296875Z"/>
+<entry
+   committed-rev="55"
+   name="Tools$1.class"
+   text-time="2005-11-07T18:01:32.000000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="6e128fba417484dcc0327334c6fd634e"
+   last-author="jaeden"
+   kind="file"
+   conflict-new="Tools$1.class.r55"
+   prop-time="2005-11-16T14:29:04.781250Z"
+   conflict-old="Tools$1.class.r47"/>
+<entry
+   committed-rev="67"
+   name="TextFontColor.java"
+   text-time="2005-11-19T14:19:49.171875Z"
+   committed-date="2005-11-19T14:21:46.114557Z"
+   checksum="86c9414828d8810cdaee42b205b2fd55"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="73"
+   name="VerbSynonymList.class"
+   text-time="2005-11-23T02:03:49.171875Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="6a9029a153890943c3249f5bbef0fe5a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:05.015625Z"/>
+<entry
+   committed-rev="85"
+   name=".nbattrs"
+   text-time="2005-11-27T21:28:10.000000Z"
+   committed-date="2005-11-27T21:34:36.161997Z"
+   checksum="47ece0313c89bc23c806ada3f666ee0c"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:04.890625Z"
+   revision="85"/>
+<entry
+   committed-rev="41"
+   name="NotFoundException.java"
+   text-time="2005-11-11T12:05:26.609375Z"
+   committed-date="2005-11-11T12:10:19.851048Z"
+   checksum="91762f0e52b75875f33d5cd469d65204"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="73"
+   name="Vector3D.class"
+   text-time="2005-11-23T02:03:50.890625Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="f6d582d7cb66ea0dbfafb78c381db127"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.296875Z"/>
+<entry
+   committed-rev="4"
+   name="Collidable.class"
+   text-time="2005-11-07T18:01:32.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="6d714ae560d3f9f71d7419c68d9bd2ea"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="73"
+   name="Rectangle3D.class"
+   text-time="2005-11-23T02:03:50.671875Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="47d8b99f6b04e21f3f5a9d33ba635fd4"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.218750Z"/>
+<entry
+   committed-rev="67"
+   name="Point3D.java"
+   text-time="2005-11-19T14:19:49.703125Z"
+   committed-date="2005-11-19T14:21:46.114557Z"
+   checksum="c240bc794bef96ecb134f499fd66cb5f"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="32"
+   name="SlageFrameworkObjectVisitor.java"
+   text-time="2005-11-09T18:08:46.000000Z"
+   committed-date="2005-11-09T18:45:47.620898Z"
+   checksum="5cb5eabe0c6e8bdab344f168fc5ad462"
+   last-author="jaeden"
+   kind="file"/>
+<entry
+   committed-rev="73"
+   name="LinkedObject.class"
+   text-time="2005-11-23T02:03:47.875000Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="9527aa6bcee2d28e6bb9fd44542d4f22"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.171875Z"/>
+<entry
+   committed-rev="75"
+   name="SlageFrameworkObject.class"
+   text-time="2005-11-23T03:28:44.171875Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="3c7378f24c5caa2e6eca49c80549badd"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:05.250000Z"/>
+<entry
+   committed-rev="73"
+   name="NamedObject$1.class"
+   text-time="2005-11-23T02:03:47.765625Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="5d09957b2c2c060bedcd9a77648d8e1c"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.171875Z"/>
+<entry
+   committed-rev="55"
+   name="FrameworkHandler.java"
+   text-time="2005-11-16T14:29:06.421875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="5c136f9a0b78037f012157c8e1a51c67"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:05.359375Z"/>
+<entry
+   name="scheduler"
+   kind="dir"/>
+</wc-entries>

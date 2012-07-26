@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="55"
+   name=""
+   committed-date="2005-11-15T17:23:54.784079Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/geometry"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="55"
+   name="Geometry.class"
+   text-time="2005-11-19T14:20:40.375000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="6a6ec90181e0864e988372008bb27825"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:02.531250Z"/>
+<entry
+   committed-rev="4"
+   name="BisectingPolygonPathVisitor.class"
+   text-time="2005-11-07T18:01:28.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="e85b3f2b81eec2053808d4c8b79c8f42"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="41"
+   name="PolygonPathVisitor.java"
+   text-time="2005-11-11T12:09:07.328125Z"
+   committed-date="2005-11-11T12:10:19.851048Z"
+   checksum="796b472936a102d9ce626a29a1bf1319"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="55"
+   name="PolygonPathVisitor.class"
+   text-time="2005-11-19T14:20:40.421875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="b499ec3c10fd49298bb431a5ab3dbc8d"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:02.562500Z"/>
+<entry
+   committed-rev="4"
+   name="BisectingPolygonPathVisitor$BisectedPolygonResultSet.class"
+   text-time="2005-11-07T18:01:28.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="1a04a3559e40f01e7d32182c17a262d4"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name=".nbattrs"
+   text-time="2005-11-07T18:01:28.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="cc032e982d53031dfa525897d89ab71d"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="41"
+   name="Geometry.java"
+   text-time="2005-11-11T12:05:26.328125Z"
+   committed-date="2005-11-11T12:10:19.851048Z"
+   checksum="d2bfe245eb983bb77a678399c148ecd7"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:30:56.000000Z"/>
+</wc-entries>

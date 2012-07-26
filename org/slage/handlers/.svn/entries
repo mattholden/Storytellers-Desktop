@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="75"
+   name=""
+   committed-date="2005-11-23T03:29:00.497932Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/handlers"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="55"
+   name="WindowChangeHandler.class"
+   text-time="2005-11-19T14:20:41.203125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="2bfa69552b68f1d6acb26291364afb43"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:06.656250Z"/>
+<entry
+   committed-rev="26"
+   name="CombineObjectHandler.java"
+   text-time="2005-11-09T03:31:06.000000Z"
+   committed-date="2005-11-08T23:22:51.091701Z"
+   checksum="5ae9dcf723c6bef406c336861ecf4bc5"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:04.000000Z"/>
+<entry
+   committed-rev="55"
+   name="LaunchEditorHandler.class"
+   text-time="2005-11-19T14:20:41.250000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="2197463eea8ed7b39bf779594d4eec85"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:06.796875Z"/>
+<entry
+   committed-rev="4"
+   name="handler_diagram.png"
+   text-time="2005-11-07T18:01:34.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="bedc7a2afb1c30ab99846cf3dc32f9d2"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:32.000000Z"/>
+<entry
+   committed-rev="4"
+   name="CheckAsyncKeysHandler.java"
+   text-time="2005-11-07T18:01:34.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="1ebc4840a13a2befb755af5c2bf8b8f2"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:32.000000Z"/>
+<entry
+   committed-rev="4"
+   name="RenderLoopHandler.java"
+   text-time="2005-11-07T18:01:34.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="5b7f9762ab6e109a0c445b265183986d"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:32.000000Z"/>
+<entry
+   committed-rev="16"
+   name="TakeObjectHandler.java"
+   text-time="2005-11-09T03:31:06.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="8e8abbf5f4815e40ee80cc9630a33c5e"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:04.000000Z"/>
+<entry
+   committed-rev="4"
+   name="PauseHandler.java"
+   text-time="2005-11-07T18:01:34.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="66d7c6484076f758affddd16bc839e58"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:32.000000Z"/>
+<entry
+   committed-rev="58"
+   name="Handler.java"
+   text-time="2005-11-19T14:20:51.796875Z"
+   committed-date="2005-11-16T23:11:15.405629Z"
+   checksum="7f0bc22ce6e6c596632db946ffb1bd23"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-19T14:20:51.593750Z"/>
+<entry
+   committed-rev="62"
+   name="SetAttributeHandler.java"
+   text-time="2005-11-19T14:20:51.828125Z"
+   committed-date="2005-11-16T23:12:04.617989Z"
+   checksum="707958aeb16463d59c5f5b66e193c8eb"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-19T14:20:51.625000Z"/>
+<entry
+   committed-rev="4"
+   name="SetStateHandler.class"
+   text-time="2005-11-07T18:01:34.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="460720e46ee8fe6ab4101f83e26622be"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:32.000000Z"/>
+<entry
+   committed-rev="55"
+   name="DebugPrintlnHandler.class"
+   text-time="2005-11-19T14:20:41.281250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="7617e3d65b4070469ec09fb02dab90e8"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:06.968750Z"/>
+<entry
+   committed-rev="73"
+   name="TranslateHandler.class"
+   text-time="2005-11-23T02:03:51.125000Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="c26dc3fc55597e1f84edd395ddba61f4"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.031250Z"/>
+<entry
+   committed-rev="73"
+   name="ScrollHandler.class"
+   text-time="2005-11-23T02:03:50.687500Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="103771b1f0805dba67248cea143f0b5d"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.109375Z"/>
+<entry
+   committed-rev="55"
+   name="SaveWithChooserDialog.class"
+   text-time="2005-11-19T14:20:41.406250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="6401ca03598157f833245fc556d91140"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.156250Z"/>
+<entry
+   committed-rev="16"
+   name="CloseInventoryHandler.java"
+   text-time="2005-11-09T03:31:06.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="0369f32a8b779b8b7a8690756affd07d"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:04.000000Z"/>
+<entry
+   committed-rev="28"
+   name="ChangeAnimationHandler.java"
+   text-time="2005-11-09T03:31:06.000000Z"
+   committed-date="2005-11-09T02:33:11.186510Z"
+   checksum="3024d66c32d70e1d4afdf08332d47017"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:04.000000Z"/>
+<entry
+   committed-rev="55"
+   name="FocusConsoleHandler.class"
+   text-time="2005-11-19T14:20:41.437500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="811bd9e330bab5dba4a7ad51d9d11aff"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.203125Z"/>
+<entry
+   committed-rev="55"
+   name="CombineObjectHandler.class"
+   text-time="2005-11-19T14:20:41.453125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="63db92612e280e29786502868d9409ae"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.218750Z"/>
+<entry
+   committed-rev="55"
+   name="CheckAsyncKeysHandler.class"
+   text-time="2005-11-19T14:20:41.484375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="6c064fcf4ef991f9312e5dd403abf17d"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.265625Z"/>
+<entry
+   committed-rev="4"
+   name="TestCollisionHandler.java"
+   text-time="2005-11-07T18:01:34.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="38ed39d3cbf39d54a3bc34a0a2a2ea27"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:32.000000Z"/>
+<entry
+   committed-rev="55"
+   name="RenderLoopHandler.class"
+   text-time="2005-11-19T14:20:41.515625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="49860d972b71e5c67d1a9d0a324ee81a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.359375Z"/>
+<entry
+   committed-rev="61"
+   name="ScrollHandler.java"
+   text-time="2005-11-19T14:20:51.875000Z"
+   committed-date="2005-11-16T23:11:53.047830Z"
+   checksum="5a86e42735444a2e44a14caa758dcaf8"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-19T14:20:51.640625Z"/>
+<entry
+   committed-rev="55"
+   name="TakeObjectHandler.class"
+   text-time="2005-11-19T14:20:41.546875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="5ba05441d07497007e98e5cb7788df91"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.406250Z"/>
+<entry
+   committed-rev="55"
+   name="PauseHandler.class"
+   text-time="2005-11-19T14:20:41.609375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="1faff9811d00b49d08aa3665f738adf3"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.453125Z"/>
+<entry
+   committed-rev="55"
+   name="PlaySoundHandler.class"
+   text-time="2005-11-19T14:20:41.625000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="019e7353cd8724d674ed4dc08a814fd0"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.515625Z"/>
+<entry
+   committed-rev="4"
+   name="FocusConsoleHandler.java"
+   text-time="2005-11-07T18:01:34.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="e2ed8eff06839d5eaaee5957183a82cb"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:32.000000Z"/>
+<entry
+   committed-rev="73"
+   name="Handler.class"
+   text-time="2005-11-23T02:03:47.875000Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="19316983af7bc17f7fcc3e9bf580860c"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.578125Z"/>
+<entry
+   committed-rev="73"
+   name="SetAttributeHandler.class"
+   text-time="2005-11-23T02:03:51.765625Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="20cd58d07c7149c7f22f18de33a4710a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.312500Z"/>
+<entry
+   committed-rev="75"
+   name="SetPositionHandler.class"
+   text-time="2005-11-23T03:28:48.984375Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="cdabd46144222201639c9a246fb8bc84"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.640625Z"/>
+<entry
+   committed-rev="55"
+   name="QuitHandler.class"
+   text-time="2005-11-19T14:20:41.734375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="fc901011ff6e60e9b2b03865e400513a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.718750Z"/>
+<entry
+   committed-rev="55"
+   name="CloseInventoryHandler.class"
+   text-time="2005-11-19T14:20:41.765625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="d258a2b60a03e0f95f0d1f4a9ffae082"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:07.843750Z"/>
+<entry
+   committed-rev="55"
+   name="ChangeAnimationHandler.class"
+   text-time="2005-11-19T14:20:41.796875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="6c60e4abe98fa9426825c407da8a3968"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:08.343750Z"/>
+<entry
+   committed-rev="55"
+   name="LockViewportHandler.class"
+   text-time="2005-11-19T14:20:41.812500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="1296cf353abaad17d85ac80911a6c4e3"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:08.375000Z"/>
+<entry
+   committed-rev="55"
+   name="ToggleDebugHandler.class"
+   text-time="2005-11-19T14:20:41.875000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="9504250a6c839647ad2cb6c38e80ef4c"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:08.578125Z"/>
+<entry
+   committed-rev="75"
+   name=".nbattrs"
+   text-time="2005-11-23T02:17:40.343750Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="1a5ff41cb28fa9a8ef6b9752da1b5ad1"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:08.640625Z"/>
+<entry
+   committed-rev="4"
+   name="WindowChangeHandler.java"
+   text-time="2005-11-07T18:01:34.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="a949f84287cf31b89180e2cd0fb1b808"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:32.000000Z"/>
+<entry
+   committed-rev="28"
+   name="PlaySoundHandler.java"
+   text-time="2005-11-09T03:31:06.000000Z"
+   committed-date="2005-11-09T02:33:11.186510Z"
+   checksum="fc2ae7db19f755345cccfc43fdf76fec"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:04.000000Z"/>
+<entry
+   committed-rev="55"
+   name="TestCollisionHandler.class"
+   text-time="2005-11-19T14:20:41.906250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="9e6324eb6b9127d125bb66dc3dd0df2a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:08.687500Z"/>
+<entry
+   committed-rev="68"
+   name="SetPositionHandler.java"
+   text-time="2005-11-23T03:26:58.687500Z"
+   committed-date="2005-11-21T22:35:34.805263Z"
+   checksum="b8497871c698ea125fc3c21e064ec5e2"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-23T03:26:58.656250Z"/>
+<entry
+   committed-rev="4"
+   name="package.html"
+   text-time="2005-11-07T18:01:34.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="78c59fff851b479900cd54b19747bcea"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:32.000000Z"/>
+<entry
+   committed-rev="4"
+   name="LaunchEditorHandler.java"
+   text-time="2005-11-07T18:01:34.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="8cb1e3bd60af105367512eaff49b5bb4"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:32.000000Z"/>
+<entry
+   committed-rev="73"
+   name="SaveHandler.class"
+   text-time="2005-11-23T02:03:50.875000Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="d40142ad6f89ac2929f168ce4838846f"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:08.734375Z"/>
+<entry
+   committed-rev="73"
+   name="ResponseHandler.class"
+   text-time="2005-11-23T02:03:50.593750Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="e3c2b91657ca5a85085cf07dd63029eb"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:08.781250Z"/>
+<entry
+   committed-rev="4"
+   name="QuitHandler.java"
+   text-time="2005-11-07T18:01:34.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="da72f0038e0a98a5cc3c056d864a8c58"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:32.000000Z"/>
+<entry
+   committed-rev="55"
+   name="ShowInventoryHandler.class"
+   text-time="2005-11-19T14:20:41.984375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="f49d2b5f1770f7878d4f7e7175096143"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:08.984375Z"/>
+<entry
+   committed-rev="16"
+   name="LockViewportHandler.java"
+   text-time="2005-11-09T03:31:06.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="d29139ee91625a21df63c4ad42eb58da"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:04.000000Z"/>
+<entry
+   committed-rev="28"
+   name="ToggleDebugHandler.java"
+   text-time="2005-11-09T03:31:06.000000Z"
+   committed-date="2005-11-09T02:33:11.186510Z"
+   checksum="0500ac550dd29d7f0e61ffdcb537f386"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:04.000000Z"/>
+<entry
+   committed-rev="28"
+   name="DebugPrintlnHandler.java"
+   text-time="2005-11-09T03:31:06.000000Z"
+   committed-date="2005-11-09T02:33:11.186510Z"
+   checksum="df85bd98269c5e37b5a61894f8ddb60d"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:06.000000Z"/>
+<entry
+   committed-rev="63"
+   name="TranslateHandler.java"
+   text-time="2005-11-19T14:20:51.890625Z"
+   committed-date="2005-11-16T23:12:24.048538Z"
+   checksum="46d36184155be96051284ced53e48ac0"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-19T14:20:51.734375Z"/>
+<entry
+   committed-rev="60"
+   name="SaveHandler.java"
+   text-time="2005-11-19T14:20:51.921875Z"
+   committed-date="2005-11-16T23:11:42.150247Z"
+   checksum="303193854d72e25777b83f6c25bd55e0"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-19T14:20:51.750000Z"/>
+<entry
+   committed-rev="59"
+   name="ResponseHandler.java"
+   text-time="2005-11-19T14:20:51.937500Z"
+   committed-date="2005-11-16T23:11:26.079397Z"
+   checksum="3a2ff95bd663de9cf8c0fd74bda334d2"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-19T14:20:51.781250Z"/>
+<entry
+   committed-rev="16"
+   name="ShowInventoryHandler.java"
+   text-time="2005-11-09T03:31:08.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="0e6b4ffd49ff5625cf7c580447fc5931"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:06.000000Z"/>
+<entry
+   committed-rev="28"
+   name="SaveWithChooserDialog.java"
+   text-time="2005-11-09T03:31:08.000000Z"
+   committed-date="2005-11-09T02:33:11.186510Z"
+   checksum="0b91ecb56df2fe3884bb053214f33d7b"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:06.000000Z"/>
+</wc-entries>

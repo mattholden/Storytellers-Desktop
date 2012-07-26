@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="55"
+   name=""
+   committed-date="2005-11-15T17:23:54.784079Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/conditionals"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="8"
+   name="ConditionalList.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T09:03:15.633111Z"
+   checksum="de74afa68bc2007abc8042d738a1ac71"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="8"
+   name="ConditionGroup.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T09:03:15.633111Z"
+   checksum="ab892c43206eb8cc6be898e938c92d25"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="55"
+   name="GreaterEqual.class"
+   text-time="2005-11-19T14:20:44.531250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="5c892e4a70b48171251fe5d8056782fd"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:14.937500Z"/>
+<entry
+   committed-rev="4"
+   name="ContainsObject.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="d93ef034958c5c56f7e0499b3cc22300"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="4"
+   name="Less.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="2144ec3dabfa89298ff2bd095e4f2f11"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="4"
+   name="Equal.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="43556e267296fab84c0773d957497cc4"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="55"
+   name="Condition.class"
+   text-time="2005-11-16T14:29:15.453125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="b49e99de10b3de60aacf9dcda90c4478"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:15.000000Z"/>
+<entry
+   committed-rev="55"
+   name=".nbattrs"
+   text-time="2005-11-16T14:29:15.468750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="b93000ff28545632d78723d9de235b27"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:15.062500Z"/>
+<entry
+   committed-rev="55"
+   name="NotEqual.class"
+   text-time="2005-11-19T14:20:44.546875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="056d6ccea864f2afa3dcb7291384d216"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:15.109375Z"/>
+<entry
+   committed-rev="55"
+   name="Greater.class"
+   text-time="2005-11-19T14:20:44.578125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="ce41aebf209a1e307871b7b5824d547a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:15.187500Z"/>
+<entry
+   committed-rev="55"
+   name="CompareCondition.class"
+   text-time="2005-11-19T14:20:44.703125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="365a8ac4ab63880e18db730f37bda2a2"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:15.218750Z"/>
+<entry
+   committed-rev="4"
+   name="GreaterEqual.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="0cf7e173a48217fc3c7cddd24da2dad5"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="55"
+   name="LessEqual.class"
+   text-time="2005-11-19T14:20:44.718750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="79238eec31c7b1e6477cd607200cf1c4"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:15.250000Z"/>
+<entry
+   committed-rev="55"
+   name="ConditionalList.class"
+   text-time="2005-11-16T14:29:15.609375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="89f2551b27b8ddf96312a327810f6459"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:15.265625Z"/>
+<entry
+   committed-rev="84"
+   name="Condition.java"
+   text-time="2005-11-24T01:53:27.343750Z"
+   committed-date="2005-11-24T02:07:17.329162Z"
+   checksum="6b9cddbcb505e55255545b2e168108db"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"
+   revision="84"/>
+<entry
+   committed-rev="55"
+   name="ConditionGroup.class"
+   text-time="2005-11-16T14:29:15.640625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="a4206f4d018f2fb0e2c87ae8a8545cd5"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:15.296875Z"/>
+<entry
+   committed-rev="4"
+   name="NotEqual.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="e8350d3244f70791e9ffc8a2485601f5"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="4"
+   name="Greater.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="b8d2422a88c6825834ca55153ab14090"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="55"
+   name="ContainsObject.class"
+   text-time="2005-11-19T14:20:44.781250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="2027583c2eba13a497c7bf01c9d6cf56"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:15.328125Z"/>
+<entry
+   committed-rev="55"
+   name="Less.class"
+   text-time="2005-11-19T14:20:44.796875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="8ba6dd842b29fd7f7842fc525a66a0fd"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:15.359375Z"/>
+<entry
+   committed-rev="55"
+   name="Equal.class"
+   text-time="2005-11-19T14:20:44.828125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="80cffabdbe5893c26fa04ddeaedcc94e"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:15.390625Z"/>
+<entry
+   committed-rev="7"
+   name="CompareCondition.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T02:37:50.751390Z"
+   checksum="962bc3dddb1b686dcc543a2d254ea052"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="4"
+   name="LessEqual.java"
+   text-time="2005-11-07T18:01:48.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="ea1611fe10d3c26f7e00b7c0eb9b7187"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+</wc-entries>

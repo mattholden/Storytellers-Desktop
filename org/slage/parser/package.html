@@ -1,0 +1,135 @@
+<!-- $Id: package.html,v 1.1 2005/11/04 07:52:19 kevlar2 Exp $ -->
+<body>
+
+<p>The Parser takes typed user input and tries to map it to objects in the 
+game world. The <a href="Parser.html">Parser</a> converts the input to a form
+suitable for <a href="../command/package-summary.html">command handling</a>.</p>
+
+<p>The Parser may be different for each language, e.g. English or German.
+(Actually, the grammar is different, e.g. for languages that place adjectives 
+in front of or behind the corresponding noun, compare English &quot;red wine&quot;
+and Spanish &quot;vino tinto&quot; -- and German avoids this by having a noun 
+for it (&quot;Rotwein&quot;).)</p>
+
+<h3>How it works</h3>
+<p>For each input given to <a href="Parser.html#parse(java.lang.String)">parse</a>, 
+the Parser checks whether it starts with a known preposition or separator, or
+does fit anything in the room. If not, it's considered a verb. If it isn't 
+a verb, the last verb from the history is used.</p>
+
+<p>The objects in the room are called <a href="Description.html">Description</a>s,
+since they hold the description on which the Parser works.
+You <em>do</em> want to use the <a href="DefaultDescription.html">DefaultDescription</a>
+only.</p>
+
+<p>The parser asks the room for the object that fits the given input best. 
+The room (as well as the inventory) is, from the Parser's point of view, 
+just a collection of parseable <a href="Description.html">Description</a>s, 
+i.e. a <a href="BunchOfItems.html">BunchOfItems</a>. 
+The <a href="DefaultBunchOfItems.html">DefaultBunchOfItems</a>
+asks all its <a href="Description.html">Description</a> and returns the 
+<a href="BestMatch.html">best matching one</a>. 
+If the input is ambiguous, the BunchOfItems returns a collection of the 
+best-fitting items. The Parser then throws an 
+<a href="AmbiguousInputException.html">AmbiguousInputException</a>.</p>
+
+<p>Example: in the room are a green box and a red box. The input &quot;look 
+box&quot; is ambiguous and the parser rejects it.</p>
+
+<p>Each <a href="Description.html">Description</a> can compute its likeliness 
+that some given input refers to it.</p>
+
+<p>Example: The green box may react to articles &quot;the&quot; and &quot;a&quot;
+with a weak score, because just an article can be anything in the BunchOfItems.
+It can return a higher score for adjectives like &quot;green&quot;, &quot;light
+green&quot; and &quot;lime&quot;. Finally it can return a high score for nouns 
+like &quot;box&quot; or &quot;crate&quot;. &quot;Look red box&quot; will score 
+zero, because the adjective &quot;red&quot; does not match.</p>
+
+<p>After restoring or restarting the game, the restore / restart code should 
+call the Parser's <a href="Parser.html#discardInput()">discardInput</a> method
+to remove any unparsed input the parser may still have. It would be quite 
+confusing to enter a command like &quot;open box and look inside&quot;, then  
+die on opening the box (maybe it was trapped?) and then restore and have the 
+parser try to make something of the &quot;look inside&quot;.</p>
+
+
+<h3>Capabilities</h3>
+<p>Currently, the Parser does the following (reasonable vocabulary assumed):
+<ul>
+	<li>Recognizes simple commands like &quot;look&quot;, &quot;take box&quot;, 
+	&quot;talk to man&quot;</li>
+	<li>Complains about and removes duplicate words from the input</li>
+	<li>Rejects unknown words or word combinations</li>
+	<li>Handles more than one command in one input: &quot;look man and talk to 
+	him&quot; and also &quot;open box and look inside&quot; or &quot;look box 
+	and  man&quot; or &quot;look drum and base tape&quot; (note the different 
+	use of &quot;and&quot;)</li>
+	<li>Recognizes simple pronoun and substitutes the last noun, like in 
+	&quot;look man&quot; and then &quot;talk to him&quot;, which is the same as 
+	typing &quot;look man and talk man&quot; or like &quot;look tree and climb 
+	up&quot; which is the same as &quot;look tree and climb up tree&quot;</li>
+	<li>Distinguishes between similar objects in a room: if there is a red and 
+	a blue box and you just type &quot;look box&quot; it will ask you something 
+	like &quot;Ambiguous input, do you mean the red box or the blue box?&quot;</li>
+	<li>Logs unknown words during playtesting for improving the vocabulary</li>
+    <li>Flexible error recovery: assume a room with a red and a green box. The
+    player types &quot;put gem in box&quot;. The parser rejects this and asks
+    &quot;Do you mean the red box or the green box?&quot; You can then just
+    type &quot;red box&quot; and the Parser will know the command is supposed
+    to be &quot;put gem in red box&quot;</li>
+</ul>
+</li></p>
+<p>In the <a href="GermanParser.html">GermanParser</a> there are also some 
+additional simplifications for German, like transforming umlauts (&auml; becomes 
+ae).</p>
+
+
+<h3>To do</h3>
+<p>Things to do (ordered more or less by importance):<ul>
+	<li>Allow multi-word separators like &quot;after that&quot;; currently only 
+	one-word separators (&quot;and&quot;, &quot;then&quot;) are allowed.</li>
+</ul></p>	
+
+<h3>To think about (in no particular order)</h3>
+<p><ul>
+	<li>Reject two prepositions? &quot;take lid off under vent&quot;</li>
+	<li>Multi word prepositions: &quot;in front of&quot;</li>
+	<li>Remove certain special character like quotes, commas, etc.?</li>
+	<li>Translate numbers, e.g. &quot;one&quot; -&gt; 1?</li>
+	<li>Allow discarding special words in the beginning or end of the input, to
+	accept commands like &quot;now open box&quot; or &quot;Roger, open the
+	box&quot;?</li>
+	<li>Simplify parsed input by sorting nouns<ul>
+		<li>alphabetically: &quot;rub berries on body&quot; and &quot;rub body 
+		berries&quot; would both be &quot;RUB BERRIES BODY&quot; -- is this 
+		always the same or does this distort the meaning?</li>
+		<li>by meaning: &quot;give man gem&quot; and &quot;give gem to man&quot;
+		can be sorted to do &lt;what&gt; to / with &lt;whom&gt; -- can that 
+		distort the meaning?</li>
+	</ul></li>
+	<li>Handle &quot;all&quot;? But how does the parser know that &quot;all&quot;
+	does not include walls, floor, and so on? Should each noun have an all
+	attribute? Handle &quot;all but the foo&quot; (&quot;everything except 
+	for&quot;)?</li>
+</ul></p>
+
+<h3>Not to do (and why not)</h3>
+<p><ul>
+	<li>Add a dialog menu system to the parser. This has nothing to do with 
+	parsing. It should get its own class or package.</li>
+	<li>Handle typed dialogs, like the user typing &quot;yes&quot; as a response 
+	to a question the game asked. This should be handled in a the Command 
+	Handling code (define &quot;yes&quot;, &quot;no&quot;, &quot;maybe&quot; 
+	and whatever more you need as commands (or verbs) and react on those).</li>
+</ul></p>
+
+
+<h3>References</h3>
+<p>See also the <a href="http://sq7.org/phpBB/viewtopic.php?t=258">Parser
+requirements thread</a> in the <a href="http://sq7.org/phpBB/">sq7.org forum</a> 
+and the <a href="http://freesci.linuxgames.com">Free SCI project</a>'s 
+documentation on the original (reverse-engineered) old
+<a href="http://freesci.linuxgames.com/scihtml/x5792.html">Sierra parser</a>.</p>
+
+</body>

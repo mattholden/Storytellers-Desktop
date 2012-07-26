@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="73"
+   name=""
+   committed-date="2005-11-23T02:05:51.041801Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/editor/gametree"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="4"
+   name="DeleteNodeMenuItem.class"
+   text-time="2005-11-07T18:01:52.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="73be0caf208946fb08620908913d386e"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="55"
+   name="ObjectNode.class"
+   text-time="2005-11-19T14:20:45.734375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="33cbb59f1d3283655d99e59fb26f3a0e"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.296875Z"/>
+<entry
+   committed-rev="41"
+   name="CharacterNode.java"
+   text-time="2005-11-11T11:58:18.328125Z"
+   committed-date="2005-11-11T12:10:19.851048Z"
+   checksum="f72f524ad4094993b5c1edc1706aa945"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="4"
+   name="TemplateNode.class"
+   text-time="2005-11-07T18:01:52.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="5425172719a02fbe25b1506e244ae8c0"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AddObjectMenuItem.class"
+   text-time="2005-11-07T18:01:52.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="256afe290987532b4f186b844632985d"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AddActMenuItem.class"
+   text-time="2005-11-07T18:01:52.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="d6b7af9ffffef89ea483554998984161"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="17"
+   name="ObjectNode.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="c51c90f06e49addc2cf51da8a18177d8"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AddTemplateMenuItem.class"
+   text-time="2005-11-07T18:01:52.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="9ebce4553f8722f965092754d7c2af74"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="17"
+   name="ActNode.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="a7747ff828f9d7d4983802e5714504ec"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="55"
+   name="GameTree.class"
+   text-time="2005-11-19T14:20:45.781250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="304060a68f6fd0e151d63dcdc00ffad5"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.437500Z"/>
+<entry
+   committed-rev="84"
+   name="GameNode.java"
+   text-time="2005-11-24T01:53:27.593750Z"
+   committed-date="2005-11-24T02:07:17.329162Z"
+   checksum="93e90e7633753a0370b0a5669e914bdd"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"
+   revision="84"/>
+<entry
+   committed-rev="73"
+   name="GameTreePanel$TreeNodeFactory.class"
+   text-time="2005-11-23T02:03:50.343750Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="db7ed344413fcb2cd2a7d258e92ce2f4"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.156250Z"/>
+<entry
+   name="menu"
+   kind="dir"/>
+<entry
+   committed-rev="55"
+   name="PlayerNode.class"
+   text-time="2005-11-19T14:20:46.078125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="d4ffba848a85e95f3a6d8d04fa84652c"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:20.140625Z"/>
+<entry
+   committed-rev="17"
+   name="AbstractTreeNode.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="a6ed4aaf52f3508be92c1ebe3442e07b"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AddSceneMenuItem.class"
+   text-time="2005-11-07T18:01:52.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="7c712fb2cc32bf4ba3a43272f0829773"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:52.000000Z"/>
+<entry
+   committed-rev="55"
+   name="ActNode.class"
+   text-time="2005-11-19T14:20:46.125000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="d3ead7192ecac172cdbd6b0bfc4cd5f1"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.343750Z"/>
+<entry
+   committed-rev="23"
+   name="PlayerNode.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T23:22:13.778589Z"
+   checksum="ad916705d4f8336b94e83820c93abe4f"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="23"
+   name="SceneNode.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T23:22:13.778589Z"
+   checksum="cc0f2f48adb70bb5e2b4eda740764e32"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="55"
+   name="GameNode.class"
+   text-time="2005-11-19T14:20:46.171875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="b8bdadf91804ce1c9b243875e05f8b63"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.375000Z"/>
+<entry
+   committed-rev="55"
+   name="RoomNode.class"
+   text-time="2005-11-19T14:20:46.234375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="c5e7309de0307539ef26b351fb1b0515"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.406250Z"/>
+<entry
+   committed-rev="32"
+   name="GameTreePanel.java"
+   text-time="2005-11-09T18:25:36.000000Z"
+   committed-date="2005-11-09T18:45:47.620898Z"
+   checksum="e7ab97e11c020d13fc5817935cd85946"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:14.000000Z"/>
+<entry
+   committed-rev="84"
+   name=".nbattrs"
+   text-time="2005-11-24T01:52:46.781250Z"
+   committed-date="2005-11-24T02:07:17.329162Z"
+   checksum="5dfad69bc9a6480adbf597bd4a072417"
+   last-author="jaeden"
+   kind="file"
+   revision="84"/>
+<entry
+   committed-rev="4"
+   name="AddRoomMenuItem.class"
+   text-time="2005-11-07T18:01:52.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="c0cbfe89afdb2d3500e5e574af9d28b9"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="55"
+   name="AbstractTreeNode.class"
+   text-time="2005-11-19T14:20:46.265625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="9541995203e09eedc57ad0a7959ca4c1"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:18.468750Z"/>
+<entry
+   name="actions"
+   kind="dir"/>
+<entry
+   committed-rev="23"
+   name="RoomNode.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T23:22:13.778589Z"
+   checksum="5754e70b6822c80ae139e2ac7e8a2106"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="55"
+   name="CharacterNode.class"
+   text-time="2005-11-19T14:20:46.687500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="fc1c188bf23e79e0b409daf77f16faba"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:20.109375Z"/>
+<entry
+   committed-rev="55"
+   name="SceneNode.class"
+   text-time="2005-11-19T14:20:46.718750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="aaf3fc0cff24a877d5d4f3998b267871"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:20.171875Z"/>
+<entry
+   committed-rev="17"
+   name="GameTree.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="3c2a179492ea90a4edf292e70db46bf7"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="4"
+   name="GameTreeSelectionListener.class"
+   text-time="2005-11-07T18:01:52.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="68eab7f66715cdd90b62eeb6e8a66301"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:52.000000Z"/>
+<entry
+   committed-rev="4"
+   name="GameTreeMouseListener.class"
+   text-time="2005-11-07T18:01:52.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="05056d9979e4dff25627c89aefb9f7ac"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:52.000000Z"/>
+<entry
+   committed-rev="55"
+   name="GameTreePanel.class"
+   text-time="2005-11-19T14:20:46.765625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="0c55df6f616c90248e4fd072843ff3cd"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:20.218750Z"/>
+</wc-entries>

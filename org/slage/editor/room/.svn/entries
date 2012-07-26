@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="75"
+   name=""
+   committed-date="2005-11-23T03:29:00.497932Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/editor/room"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   name="actions"
+   kind="dir"/>
+<entry
+   committed-rev="75"
+   name="RoomBoundsAndImagesPanel.java"
+   text-time="2005-11-23T02:53:17.343750Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="13975674ae625c1c348bb97525738a0a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:12.000000Z"/>
+<entry
+   committed-rev="75"
+   name="RoomBoundsAndImagesPanel.class"
+   text-time="2005-11-23T03:28:46.531250Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="fd2458fffa3abb6086c3e52d3671d6c8"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:17.437500Z"/>
+<entry
+   committed-rev="28"
+   name="RoomImageEditor.java"
+   text-time="2005-11-09T03:31:12.000000Z"
+   committed-date="2005-11-09T02:33:11.186510Z"
+   checksum="3a8def1beef727722d8a44ce9398b514"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:12.000000Z"/>
+<entry
+   committed-rev="4"
+   name="RoomNodeGUI.java"
+   text-time="2005-11-07T18:01:50.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="c74be3b9c472120813ae580457b34c95"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:50.000000Z"/>
+<entry
+   committed-rev="55"
+   name="RoomBoundsAndImagesPanel$1.class"
+   text-time="2005-11-19T14:20:45.343750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="afee171923747f65e255349e350547b7"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:17.468750Z"/>
+<entry
+   committed-rev="55"
+   name="RoomImageEditor.class"
+   text-time="2005-11-19T14:20:45.375000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="419a871c28e5a219e1362cd7430cb29d"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:17.515625Z"/>
+<entry
+   committed-rev="55"
+   name="RoomNodeGUI.class"
+   text-time="2005-11-19T14:20:45.421875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="55cea8360ce5298e154216fdbe2ebc01"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:17.546875Z"/>
+</wc-entries>

@@ -1,0 +1,552 @@
+<?xml version='1.0' standalone='no'?> 
+<game
+  xmlns="http://org.slage.xml"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://org.slage.xml ../../../../xml/slageXMLElementSchema.xsd"
+
+  name="Slage Image Test">
+  <description type="org.slage.parser.AdjectiveNounDescription">
+    <descriptor gender="neutral" quantity="singular">
+      <article value="a" />
+      <article value="an" />
+      <article value="the" />
+      <synonym value="Slage Image Test" />
+    </descriptor>
+  </description>
+  <state name="Debug Mode">
+    <boolean value="false" />
+  </state>
+  <state name="Window Title">
+    <string value="Slage Adventure Game Engine v1.00" />
+  </state>
+  <state name="Window Height">
+    <integer value="480" />
+  </state>
+  <state name="Window Width">
+    <integer value="640" />
+  </state>
+  <state name="Background Color">
+    <color red="0" green="0" blue="0" alpha="255" />
+  </state>
+  <state name="Console Background Color">
+    <color red="0" green="0" blue="0" alpha="255" />
+  </state>
+  <state name="Console Foreground Color">
+    <color red="255" green="255" blue="255" alpha="255" />
+  </state>
+  <state name="Console Font">
+    <font face="Arial" size="10" style="bold" />
+  </state>
+  <state name="Click Event Foreground Color">
+    <color red="0" green="255" blue="255" alpha="255" />
+  </state>
+  <state name="Click Event Font">
+    <font face="Arial" size="10" style="bold" />
+  </state>
+  <state name="Response Foreground Color">
+    <color red="172" green="153" blue="87" alpha="255" />
+  </state>
+  <state name="Response Font">
+    <font face="Arial" size="10" style="bold" />
+  </state>
+  <state name="Toolbar Background Color">
+    <color red="64" green="64" blue="64" alpha="255" />
+  </state>
+  <state name="Toolbar Foreground Color">
+    <color red="0" green="0" blue="0" alpha="255" />
+  </state>
+  <state name="Toolbar Font">
+    <font face="Arial" size="16" style="bold" />
+  </state>
+  <state name="Toolbar Render Mode">
+    <integer value="0" />
+  </state>
+  <state name="Frames Per Second">
+    <integer value="90" />
+  </state>
+  <state name="Logging Level">
+    <integer value="2147483647" />
+  </state>
+  <room name="Monolith Burger">
+    <sceneImage name="org?slage_tests?content?monolith_scrollhall.jpg" />
+    <description type="org.slage.parser.AdjectiveNounDescription">
+      <descriptor gender="neutral" quantity="singular">
+        <article value="a" />
+        <article value="an" />
+        <article value="the" />
+        <synonym value="Monolith Burger" />
+      </descriptor>
+    </description>
+    <handler type="org.slage.handlers.ResponseHandler" target="Monolith Burger">
+      <verb value="LOOK" />
+      <verb value="EXAMINE" />
+      <string name="sound" value="C:\Documents and Settings\Owner\Desktop\slage-ng\org\slage_tests\content\SP-Buford-SearchMonolithBurger.ogg" />
+      <string name="text" value="A Monolith Burger! You haven't seen one of these in two or three sequels!" />
+    </handler>
+    <handler type="org.slage.handlers.ResponseHandler" target="Monolith Burger">
+      <verb value="LICK" />
+      <verb value="TASTE" />
+      <string name="text" value="Having worked in a Monolith Burger once, you should know they are not sanitary enough to lick." />
+    </handler>
+    <player name="Roger Wilco">
+      <position x="0" y="0" z="10" />
+      <sceneImage name="org?slage_tests?content?roger_eva.jpg" />
+      <clickBoundary z="10">
+        <point x="0" y="0" />
+        <point x="0" y="86" />
+        <point x="55" y="86" />
+        <point x="55" y="0" />
+      </clickBoundary>
+      <collisionBoundary z="10">
+        <point x="0" y="0" />
+        <point x="0" y="86" />
+        <point x="55" y="86" />
+        <point x="55" y="0" />
+      </collisionBoundary>
+      <description type="org.slage.parser.AdjectiveNounDescription">
+        <descriptor gender="neutral" quantity="singular">
+          <article value="a" />
+          <article value="an" />
+          <article value="the" />
+          <synonym value="Roger Wilco" />
+        </descriptor>
+      </description>
+      <score value="0" />
+    </player>
+    <textObject name="Try the special!">
+      <position x="110" y="468" z="0" />
+      <description type="org.slage.parser.AdjectiveNounDescription">
+        <descriptor gender="neutral" quantity="singular">
+          <article value="a" />
+          <article value="an" />
+          <article value="the" />
+          <synonym value="Try the special!" />
+        </descriptor>
+      </description>
+      <font face="Arial" size="14" style="bold" />
+      <color red="0" green="0" blue="0" alpha="255" />
+      <text value="Try the special!" />
+    </textObject>
+    <object name="Duke">
+      <position x="66" y="66" z="3" />
+      <sceneImage name="org?slage_tests?content?duke_wave.gif" />
+      <inventoryImage name="org?slage_tests?content?duke_wave.gif" x="32" y="32" />
+      <cursorImage name="org?slage_tests?content?duke_wave.gif" x="32" y="32" />
+      <clickBoundary z="3">
+        <point x="66" y="66" />
+        <point x="66" y="166" />
+        <point x="126" y="166" />
+        <point x="156" y="116" />
+        <point x="126" y="66" />
+      </clickBoundary>
+      <collisionBoundary z="3">
+        <point x="66" y="66" />
+        <point x="66" y="166" />
+        <point x="126" y="166" />
+        <point x="156" y="116" />
+        <point x="126" y="66" />
+      </collisionBoundary>
+      <description type="org.slage.parser.AdjectiveNounDescription">
+        <descriptor gender="neutral" quantity="singular">
+          <article value="a" />
+          <article value="an" />
+          <article value="the" />
+          <synonym value="Duke" />
+        </descriptor>
+      </description>
+      <animator current="Flip">
+        <animation name="Flip" type="org.slage.animation.SingleSpriteAnimation">
+          <looping value="true" />
+          <frame type="org.slage.animation.SingleSpriteFrame">
+            <spriteArea x="0" y="0" z="0" width="60" height="100" />
+            <image name="org?slage_tests?content?duke_wave.gif" />
+          </frame>
+          <frame type="org.slage.animation.SingleSpriteFrame">
+            <spriteArea x="0" y="0" z="0" width="60" height="100" />
+            <image name="org?slage_tests?content?duke_wave2.gif" />
+          </frame>
+          <frame type="org.slage.animation.SingleSpriteFrame">
+            <spriteArea x="0" y="0" z="0" width="60" height="100" />
+            <image name="org?slage_tests?content?duke_wave3.gif" />
+          </frame>
+          <frame type="org.slage.animation.SingleSpriteFrame">
+            <spriteArea x="0" y="0" z="0" width="60" height="100" />
+            <image name="org?slage_tests?content?duke_wave4.gif" />
+          </frame>
+        </animation>
+      </animator>
+      <handler type="org.slage.handlers.ResponseHandler" target="Duke">
+        <verb value="LICK" />
+        <verb value="TASTE" />
+        <string name="text" value="Don't get too close! Spinning like that, he might throw up!" />
+      </handler>
+      <handler type="org.slage.handlers.ResponseHandler" target="Duke">
+        <verb value="LOOK" />
+        <verb value="EXAMINE" />
+        <string name="text" value="He looks like he could use some better sprites." />
+      </handler>
+    </object>
+    <object name="Pope">
+      <position x="200" y="100" z="2" />
+      <sceneImage name="org?slage_tests?content?pope.jpg" />
+      <clickBoundary z="2">
+        <point x="200" y="100" />
+        <point x="200" y="268" />
+        <point x="420" y="268" />
+        <point x="420" y="100" />
+      </clickBoundary>
+      <collisionBoundary z="2">
+        <point x="200" y="100" />
+        <point x="200" y="268" />
+        <point x="420" y="268" />
+        <point x="420" y="100" />
+      </collisionBoundary>
+      <description type="org.slage.parser.AdjectiveNounDescription">
+        <descriptor gender="neutral" quantity="singular">
+          <article value="a" />
+          <article value="an" />
+          <article value="the" />
+          <synonym value="Pope" />
+        </descriptor>
+      </description>
+      <handler type="org.slage.handlers.ResponseHandler" target="Pope" indirect="Duke">
+        <verb value="__COLLISION_ENTERED" />
+        <string name="text" value="The pope says, Hey Duke! Get off of me!" />
+      </handler>
+      <handler type="org.slage.handlers.ResponseHandler" target="Pope" indirect="Duke">
+        <verb value="__COLLISION_EXITED" />
+        <string name="text" value="The pope says, Thanks for letting me up, Duke!" />
+      </handler>
+      <handler type="org.slage.handlers.ResponseHandler" target="Pope">
+        <verb value="LICK" />
+        <verb value="TASTE" />
+        <string name="text" value="Somehow, I doubt he'd like that very much." />
+      </handler>
+      <handler type="org.slage.handlers.ResponseHandler" target="Pope">
+        <verb value="KISS" />
+        <string name="text" value="He's not allowed to do that, you know." />
+      </handler>
+      <handler type="org.slage.handlers.ResponseHandler" target="Pope">
+        <verb value="LOOK" />
+        <verb value="EXAMINE" />
+        <string name="text" value="He looks like a nice enough guy." />
+      </handler>
+    </object>
+    <object name="Mens Room">
+      <position x="732" y="551" z="1" />
+      <clickBoundary z="1">
+        <point x="732" y="551" />
+        <point x="708" y="183" />
+        <point x="797" y="127" />
+        <point x="902" y="181" />
+        <point x="888" y="561" />
+      </clickBoundary>
+      <description type="org.slage.parser.AdjectiveNounDescription">
+        <descriptor gender="neutral" quantity="singular">
+          <article value="a" />
+          <article value="an" />
+          <article value="the" />
+          <synonym value="Mens Room" />
+        </descriptor>
+      </description>
+      <handler type="org.slage.handlers.ResponseHandler" target="Mens Room">
+        <verb value="LICK" />
+        <verb value="TASTE" />
+        <string name="text" value="Licking the restroom door is clinically proven to carry severe risk of disease." />
+      </handler>
+      <handler type="org.slage.handlers.ResponseHandler" target="Mens Room">
+        <verb value="LOOK" />
+        <verb value="EXAMINE" />
+        <string name="text" value="It's the men's room. You've cleaned your share of them." />
+      </handler>
+    </object>
+    <object name="Ladies Room">
+      <position x="458" y="506" z="1" />
+      <clickBoundary z="1">
+        <point x="458" y="506" />
+        <point x="454" y="179" />
+        <point x="529" y="121" />
+        <point x="622" y="173" />
+        <point x="620" y="541" />
+      </clickBoundary>
+      <description type="org.slage.parser.AdjectiveNounDescription">
+        <descriptor gender="neutral" quantity="singular">
+          <article value="a" />
+          <article value="an" />
+          <article value="the" />
+          <synonym value="Ladies Room" />
+        </descriptor>
+      </description>
+      <handler type="org.slage.handlers.ResponseHandler" target="Ladies Room">
+        <verb value="LICK" />
+        <verb value="TASTE" />
+        <string name="text" value="Licking the restroom door is clinically proven to carry severe risk of disease." />
+      </handler>
+      <handler type="org.slage.handlers.ResponseHandler" target="Ladies Room">
+        <verb value="LOOK" />
+        <verb value="EXAMINE" />
+        <string name="text" value="The bright pink door reminds you of the Ukiniae on Monostadt 7. Getting too close to either is hazardous to your health." />
+      </handler>
+    </object>
+    <object name="Buckazoids">
+      <position x="350" y="500" z="2" />
+      <sceneImage name="org?slage_tests?content?buckazoid_sq4.gif" />
+      <inventoryImage name="org?slage_tests?content?buckazoid_sq4.gif" />
+      <cursorImage name="org?slage_tests?content?buckazoid_sq4.gif" x="32" y="32" />
+      <clickBoundary z="2">
+        <point x="350" y="500" />
+        <point x="350" y="560" />
+        <point x="410" y="560" />
+        <point x="410" y="500" />
+      </clickBoundary>
+      <description type="org.slage.parser.AdjectiveNounDescription">
+        <descriptor gender="neutral" quantity="singular">
+          <article value="a" />
+          <article value="an" />
+          <article value="the" />
+          <synonym value="Buckazoids" />
+        </descriptor>
+      </description>
+      <handler type="org.slage.handlers.ResponseHandler" target="Buckazoids">
+        <verb value="LICK" />
+        <verb value="TASTE" />
+        <string name="text" value="With as often as money changes hands, licking it probably isn't the best idea." />
+      </handler>
+      <handler type="org.slage.handlers.ResponseHandler" target="Buckazoids">
+        <verb value="LOOK" />
+        <verb value="EXAMINE" />
+        <string name="text" value="Free buckazoids! Moolah! Sponduli! Cash!" />
+      </handler>
+      <handler type="org.slage.handlers.ResponseHandler" target="Buckazoids">
+        <verb value="GRAB" />
+        <verb value="TAKE" />
+        <verb value="PICK UP" />
+        <verb value="SNATCH" />
+        <string name="text" value="You snatch up the buckazoid and drop it in your pocket. Cha-ching!" />
+      </handler>
+      <handler type="org.slage.handlers.TakeObjectHandler" points="5" target="Buckazoids">
+        <verb value="GRAB" />
+        <verb value="TAKE" />
+        <verb value="PICK UP" />
+        <verb value="SNATCH" />
+      </handler>
+      <handler type="org.slage.tests.ImageTest$ChangeObjectButton" target="Slage Image Test" indirect="Buckazoids">
+        <verb value="GRAB" />
+        <verb value="TAKE" />
+        <verb value="PICK UP" />
+        <verb value="SNATCH" />
+      </handler>
+      <handler type="org.slage.tests.ImageTest$ShowInvHandler" target="Roger Wilco">
+        <verb value="GRAB" />
+        <verb value="TAKE" />
+        <verb value="PICK UP" />
+        <verb value="SNATCH" />
+      </handler>
+      <handler type="org.slage.handlers.ResponseHandler" target="Buckazoids" indirect="Arcade Machine">
+        <verb value="USE" />
+        <string name="text" value="You don't have time to play games!" />
+      </handler>
+    </object>
+    <object name="Arcade Machine">
+      <position x="0" y="0" z="0" />
+      <clickBoundary z="1">
+        <point x="230" y="195" />
+        <point x="275" y="192" />
+        <point x="341" y="241" />
+        <point x="348" y="486" />
+        <point x="290" y="503" />
+        <point x="223" y="476" />
+        <point x="220" y="327" />
+        <point x="242" y="270" />
+      </clickBoundary>
+      <description type="org.slage.parser.AdjectiveNounDescription">
+        <descriptor gender="neutral" quantity="singular">
+          <article value="a" />
+          <article value="an" />
+          <article value="the" />
+          <synonym value="Arcade Machine" />
+        </descriptor>
+      </description>
+      <handler type="org.slage.handlers.ResponseHandler" target="Arcade Machine">
+        <verb value="LICK" />
+        <verb value="TASTE" />
+        <string name="text" value="It tastes as if many a grubby alien thumb has graced these buttons." />
+      </handler>
+      <handler type="org.slage.handlers.ResponseHandler" target="Arcade Machine">
+        <verb value="LOOK" />
+        <verb value="EXAMINE" />
+        <string name="text" value="It's a Half-Life 2 machine!" />
+      </handler>
+    </object>
+    <scrollStart x="0" y="0" z="0" />
+  </room>
+  <toolbar>
+    <cursorImage name="org?slage_tests?content?sqcursor.PNG" />
+    <toolSelected value="USE" />
+    <toolButton type="org.slage.ui.VerbButton">
+      <image name="org?slage_tests?content?eye.png" x="32" y="32" />
+      <foreground red="0" green="0" blue="0" alpha="255" />
+      <background red="64" green="64" blue="64" alpha="255" />
+      <font face="Arial" size="10" style="bold" />
+      <cursorImage name="org?slage_tests?content?eye.png" x="32" y="32" />
+      <verb value="LOOK" />
+    </toolButton>
+    <toolButton type="org.slage.ui.VerbButton">
+      <image name="org?slage_tests?content?tongue.png" x="32" y="32" />
+      <foreground red="0" green="0" blue="0" alpha="255" />
+      <background red="64" green="64" blue="64" alpha="255" />
+      <font face="Arial" size="10" style="bold" />
+      <cursorImage name="org?slage_tests?content?tongue.png" x="32" y="32" />
+      <verb value="LICK" />
+    </toolButton>
+    <toolButton type="org.slage.ui.VerbButton">
+      <image name="org?slage_tests?content?hand.png" x="32" y="32" />
+      <foreground red="0" green="0" blue="0" alpha="255" />
+      <background red="64" green="64" blue="64" alpha="255" />
+      <font face="Arial" size="10" style="bold" />
+      <cursorImage name="org?slage_tests?content?hand.png" x="32" y="32" />
+      <verb value="TAKE" />
+    </toolButton>
+    <toolButton type="org.slage.ui.HandlerButton">
+      <image name="org?slage_tests?content?door.png" x="32" y="32" />
+      <foreground red="0" green="0" blue="0" alpha="255" />
+      <background red="64" green="64" blue="64" alpha="255" />
+      <font face="Arial" size="10" style="bold" />
+      <label value="QUIT" />
+      <handler type="org.slage.handlers.QuitHandler" target="Slage Image Test" />
+    </toolButton>
+    <toolButton type="org.slage.ui.MacroButton">
+      <image name="org?slage_tests?content?lips.png" x="32" y="32" />
+      <foreground red="0" green="0" blue="0" alpha="255" />
+      <background red="64" green="64" blue="64" alpha="255" />
+      <font face="Arial" size="10" style="bold" />
+      <macro value="KISS Pope" />
+    </toolButton>
+    <toolButton type="org.slage.ui.ObjectButton">
+      <image name="org?slage_tests?content?duke_wave.gif" x="32" y="32" />
+      <foreground red="0" green="0" blue="0" alpha="255" />
+      <background red="64" green="64" blue="64" alpha="255" />
+      <font face="Arial" size="10" style="bold" />
+      <cursorImage name="org?slage_tests?content?duke_wave.gif" x="32" y="32" />
+      <verb value="USE" />
+      <objectSelected value="Duke" />
+    </toolButton>
+  </toolbar>
+  <scheduler elapsed="2638250964">
+    <event priority="2147483647" type="org.slage.scheduler.RecurringEvent">
+      <timeRemaining value="500000" />
+      <destroyOnRun value="false" />
+      <hasRun value="true" />
+      <handler type="org.slage.handlers.RenderLoopHandler" target="Slage Image Test">
+        <verb value="__RENDER" />
+      </handler>
+      <interval value="500000" />
+    </event>
+    <event priority="1000000" type="org.slage.scheduler.RecurringEvent">
+      <timeRemaining value="175722023" />
+      <destroyOnRun value="false" />
+      <hasRun value="true" />
+      <handler type="org.slage.animation.AdvanceAnimationHandler" target="Duke">
+        <string name="animation" value="Flip" />
+      </handler>
+      <interval value="250000000" />
+    </event>
+    <event priority="5" type="org.slage.scheduler.RecurringEvent">
+      <timeRemaining value="16666668" />
+      <destroyOnRun value="false" />
+      <hasRun value="true" />
+      <handler type="org.slage.tests.ImageTest$ImageTestMotion" target="Duke" indirect="Try the special!" />
+      <interval value="16666668" />
+    </event>
+  </scheduler>
+  <sounds>
+    <sound file="org?slage_tests?content?SP-Buford-SearchMonolithBurger.ogg" type="org.slage.audio.OggFile" />
+  </sounds>
+  <viewport x="0" y="0" z="0" width="1024" height="768" />
+  <paused value="true" />
+  <fullScreen value="false" />
+  <currentPlayer value="Roger Wilco" />
+  <currentRoom value="Monolith Burger" />
+  <keyHandler key="27">
+    <handler type="org.slage.handlers.PauseHandler" target="Slage Image Test" />
+  </keyHandler>
+  <keyHandler key="81">
+    <handler type="org.slage.handlers.QuitHandler" target="Slage Image Test" />
+    <boolean name="control" value="true" />
+  </keyHandler>
+  <keyHandler key="9">
+    <handler type="org.slage.handlers.ToggleDebugHandler" target="Slage Image Test" />
+  </keyHandler>
+  <keyHandler key="61">
+    <handler type="org.slage.tests.ImageTest$CycleRenderHandler" target="Slage Image Test" />
+  </keyHandler>
+  <keyHandler key="10">
+    <handler type="org.slage.handlers.FocusConsoleHandler" target="Slage Image Test" />
+  </keyHandler>
+  <keyHandler key="33">
+    <handler type="org.slage.handlers.ScrollHandler" target="Slage Image Test">
+      <integer name="x" value="5" />
+      <integer name="y" value="0" />
+    </handler>
+  </keyHandler>
+  <keyHandler key="34">
+    <handler type="org.slage.handlers.ScrollHandler" target="Slage Image Test">
+      <integer name="x" value="-5" />
+      <integer name="y" value="0" />
+    </handler>
+  </keyHandler>
+  <keyHandler key="36">
+    <handler type="org.slage.handlers.LockViewportHandler" target="Slage Image Test" indirect="Try the special!" />
+  </keyHandler>
+  <keyHandler key="35">
+    <handler type="org.slage.handlers.LockViewportHandler" target="Slage Image Test" />
+  </keyHandler>
+  <keyHandler key="112">
+    <handler type="org.slage.tests.ImageTest$PrintHistory" target="Slage Image Test" />
+  </keyHandler>
+  <keyHandler key="112">
+    <handler type="org.slage.tests.ImageTest$PrintHistoryXML" target="Slage Image Test" />
+    <boolean name="shift" value="true" />
+  </keyHandler>
+  <keyHandler key="145">
+    <handler type="org.slage.handlers.LaunchEditorHandler" target="Slage Image Test" />
+  </keyHandler>
+  <keyHandler key="32">
+    <handler type="org.slage.handlers.PlaySoundHandler" target="Slage Image Test">
+      <string name="sound" value="C:\Documents and Settings\Owner\Desktop\slage-ng\org\slage_tests\content\congratulations-escaped.ogg" />
+    </handler>
+  </keyHandler>
+  <keyHandler key="116">
+    <handler type="org.slage.handlers.SaveWithChooserDialog" target="Slage Image Test">
+      <string name="tag" value="handler" />
+    </handler>
+  </keyHandler>
+  <asyncAction name="North" condition="any">
+    <handler type="org.slage.handlers.TranslateHandler" target="Roger Wilco">
+      <integer name="x" value="0" />
+      <integer name="y" value="-4" />
+    </handler>
+    <key value="38" />
+  </asyncAction>
+  <asyncAction name="West" condition="any">
+    <handler type="org.slage.handlers.TranslateHandler" target="Roger Wilco">
+      <integer name="x" value="-4" />
+      <integer name="y" value="0" />
+    </handler>
+    <key value="37" />
+  </asyncAction>
+  <asyncAction name="East" condition="any">
+    <handler type="org.slage.handlers.TranslateHandler" target="Roger Wilco">
+      <integer name="x" value="4" />
+      <integer name="y" value="0" />
+    </handler>
+    <key value="39" />
+  </asyncAction>
+  <asyncAction name="South" condition="any">
+    <handler type="org.slage.handlers.TranslateHandler" target="Roger Wilco">
+      <integer name="x" value="0" />
+      <integer name="y" value="4" />
+    </handler>
+    <key value="40" />
+  </asyncAction>
+</game>

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="55"
+   name=""
+   committed-date="2005-11-15T17:23:54.784079Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/tests/parser"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="55"
+   name="ManyWordsTermTest.class"
+   text-time="2005-11-19T14:20:42.265625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="2c56c6f8b120a401ace45401f91bf04a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.171875Z"/>
+<entry
+   committed-rev="55"
+   name="SynonymTest.class"
+   text-time="2005-11-19T14:20:42.328125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="d95776cb5096f456828c23a61c765df7"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.250000Z"/>
+<entry
+   committed-rev="4"
+   name="NounAdjectiveDescriptionTest.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="b1ee0bf6b885b50014e0147948f71878"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="OneWordTermTest.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="e5bf32c131d8918e6f2d10bbd910fec1"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AllParserTests.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="ca8846e8d0ed79a23894245c43e00e04"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="55"
+   name="GermanParserTest.class"
+   text-time="2005-11-19T14:20:42.359375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="cca5916ef92164604b9ebe833674d5f6"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.312500Z"/>
+<entry
+   committed-rev="4"
+   name="MultipleInputTest.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="1a5dc3eac5724d004d1c28b852ad812b"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="55"
+   name="DefaultDescriptionTest.class"
+   text-time="2005-11-19T14:20:42.437500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="52a8cb565a16a37c3c7f679e800092f0"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.390625Z"/>
+<entry
+   committed-rev="4"
+   name="SynonymTest.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="ebb33256fcdc5099ecc621486b456841"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="SimpleParsingTest.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="daeac02ecc71bd029b052174809ce310"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="55"
+   name="VocabularyFilesTest.class"
+   text-time="2005-11-19T14:20:42.484375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="9e58cd8fe084e7537e367a7244f62b8b"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.437500Z"/>
+<entry
+   committed-rev="55"
+   name="PronounSubstitutionTest.class"
+   text-time="2005-11-19T14:20:42.515625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="d6baa5685d8cc0991cda993cb1f93b3f"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.562500Z"/>
+<entry
+   committed-rev="55"
+   name="InventoryTest.class"
+   text-time="2005-11-19T14:20:42.562500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="0cb17d281843c131fafe10bf9578525f"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.593750Z"/>
+<entry
+   committed-rev="55"
+   name="SlageNGParserTest.class"
+   text-time="2005-11-19T14:20:42.593750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="12fcb82b735d62f5397865a3b5d05948"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.609375Z"/>
+<entry
+   committed-rev="4"
+   name="DescriptionTest.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="f5f5348d9d54580d3c133c7ecec6bd05"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="DummyGame.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="24d684ad35778db23d6c12b10ad8f973"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="GermanParserTest.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="5c10bd557670009e541617e338ebf764"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="DefaultDescriptionTest.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="2323ab7fd5f9c4b128a5a61e534fe882"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="55"
+   name="OneWordTermTest.class"
+   text-time="2005-11-19T14:20:42.640625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="472835ced45d2e6aba6243e4413c0ab2"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.671875Z"/>
+<entry
+   committed-rev="4"
+   name="VocabularyFilesTest.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="9e3741e364d346e6ef88e7f8a44a9379"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="DefaultBunchOfItemsTest.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="ebc4304e4ead881449c009de84e5073c"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="55"
+   name="TokenizerTest.class"
+   text-time="2005-11-19T14:20:42.687500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="784729e1a68ad1b3d116bed354cd8f48"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.703125Z"/>
+<entry
+   committed-rev="55"
+   name="MultipleInputTest.class"
+   text-time="2005-11-19T14:20:42.734375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="133d4ceea533d97a54a4b16775195a5d"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.765625Z"/>
+<entry
+   committed-rev="55"
+   name="SimpleParsingTest.class"
+   text-time="2005-11-19T14:20:42.796875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="c2d5361ed27f333cd56503af284c72e4"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.796875Z"/>
+<entry
+   committed-rev="55"
+   name="DefaultBunchOfItemsTest$MockStuff.class"
+   text-time="2005-11-19T14:20:42.828125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="816260f29f027ee2baee2398b95a46da"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.828125Z"/>
+<entry
+   committed-rev="55"
+   name="DescriptionTest.class"
+   text-time="2005-11-19T14:20:42.859375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="09ec35c3bc9b1e999adc9ce25d421526"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.843750Z"/>
+<entry
+   committed-rev="55"
+   name="DummyGame.class"
+   text-time="2005-11-19T14:20:42.906250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="77d0dbf8172e6281d420b06376c47692"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.906250Z"/>
+<entry
+   committed-rev="4"
+   name="TokenizerTest.java"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="9b96a3f53083db1e9dded79e10868959"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="55"
+   name="LoggingTest.class"
+   text-time="2005-11-19T14:20:42.937500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="b1e3044febc5933b01fd280aff46fdef"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.921875Z"/>
+<entry
+   committed-rev="41"
+   name=".nbattrs"
+   text-time="2005-11-07T18:07:00.000000Z"
+   committed-date="2005-11-11T12:10:19.851048Z"
+   checksum="0f318f1c766fed352a03c5d7ea254979"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="ManyWordsTermTest.java"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="56871c88e87254ca85e50b29b9967526"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="55"
+   name="ParserTestCase.class"
+   text-time="2005-11-19T14:20:42.968750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="514897bf621342ec8afcdf586256bcb7"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.968750Z"/>
+<entry
+   committed-rev="55"
+   name="DefaultBunchOfItemsTest.class"
+   text-time="2005-11-19T14:20:43.015625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="d2a9f27e37377015e1ba10ca0b5d9b2f"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.984375Z"/>
+<entry
+   committed-rev="55"
+   name="NounAdjectiveDescriptionTest.class"
+   text-time="2005-11-19T14:20:43.046875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="e0e2d9b10a7666fe2265aaabbeb4eaf1"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:12.031250Z"/>
+<entry
+   committed-rev="4"
+   name="LoggingTest.java"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="18943a9635144d1cf7d41456edae9f9a"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="ParserTestCase.java"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="e25d5c6fc8e21adfdc59a375f84b257a"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="55"
+   name="AllParserTests.class"
+   text-time="2005-11-19T14:20:43.078125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="8061020f175338cdc764dea126de97e3"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:12.078125Z"/>
+<entry
+   committed-rev="4"
+   name="PronounSubstitutionTest.java"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="f491c6c1b2f347dd8978bf01569a5878"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="InventoryTest.java"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="49d47e2463f1aced8520a969913aa6f2"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="SlageNGParserTest.java"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="7ed5f396c3e31ae5b426024bd97bd08b"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+</wc-entries>

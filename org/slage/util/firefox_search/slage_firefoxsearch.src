@@ -1,0 +1,28 @@
+# Firefox search bar plugin for Slage documentation wiki at www.slage.com/docs
+# Author: Matt Holden (matt@mattholden.com)
+
+# revision history:
+# 1.0: icon & search plugin created
+
+<search
+ version="7.1"
+ name="Slage"
+ description="Slage Documentation Search"
+ action="http://www.slage.com/docs/index.php/Special:Search"
+ searchForm="http://www.slage.com/docs/index.php/Special:Search"
+ method="GET"
+ queryEncoding="ISO-8859-1"
+ queryCharset="ISO-8859-1"
+>
+
+<input name="sourceid" value="Slage_FireFoxPlugin">
+<input name="search" user="">
+
+</search>
+
+
+<browser
+ update="http://www.slage.com/firefox/slage_firefoxsearch.src"
+ updateIcon="http://www.slage.com/firefox/slage_firefoxsearch.png"
+ updateCheckDays="7"
+>

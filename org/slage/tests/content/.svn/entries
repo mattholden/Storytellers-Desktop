@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2005-11-07T01:59:32.930264Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/tests/content"
+   last-author="kevlar"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="4"
+   name="candy.png"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="55a85eaab17c1d2fd7449434fbf47c30"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="joystick.png"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="ed8adc53bcf3d110244462b82e7900d8"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="pope.jpg"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="99ee2578b3dd2a4f920803a51a64b76f"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="tongue.png"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="a243bf2e8f1ffcd11964095f813544aa"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="door.PNG"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="b94cec55d66197e2352a265d76bec604"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="monolith_scrollhall.jpg"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="1d9215c5609af0c89a8c1a48928c61d1"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:42.000000Z"/>
+<entry
+   committed-rev="4"
+   name="roger_eva.jpg"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="e301a8e0b63f5901c4b44bec4764df42"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:42.000000Z"/>
+<entry
+   committed-rev="4"
+   name="congratulations-escaped.ogg"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="2a06fe649a550962e0adfa8f17c60a9c"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:42.000000Z"/>
+<entry
+   committed-rev="4"
+   name="lips.PNG"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="38830fe9024c1691300495bb35c39953"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:42.000000Z"/>
+<entry
+   committed-rev="4"
+   name="xstream-1.1.2.jar"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="40919c4fe1bd10734628f69e01e5e4fe"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:44.000000Z"/>
+<entry
+   committed-rev="4"
+   name="hand.png"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="7b24d08d1e4c51caca7f9a675ddd1c78"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:44.000000Z"/>
+<entry
+   committed-rev="4"
+   name="SP-Buford-SearchMonolithBurger.ogg"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="4626eb90112138431ddecbe895be88bf"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:44.000000Z"/>
+<entry
+   committed-rev="4"
+   name="duke_wave2.gif"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="d9247de07fbf6fdc8694f072f4c65e8e"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:44.000000Z"/>
+<entry
+   committed-rev="4"
+   name="duke_wave3.gif"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="ecab409b76c2eb0ddc0850ea69083acb"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:44.000000Z"/>
+<entry
+   committed-rev="4"
+   name="duke_wave4.gif"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="f967dcca2ff007c3e3939da19396dfec"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:44.000000Z"/>
+<entry
+   committed-rev="4"
+   name="sqcursor.png"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="02c24557fbd9fb3fc8c5b7c5e0fba43b"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:44.000000Z"/>
+<entry
+   committed-rev="4"
+   name="eye.png"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="f61040e89e65cbaab5e59211c65e2281"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:44.000000Z"/>
+<entry
+   committed-rev="4"
+   name="buckazoid_sq4.gif"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="6f29e56d319fbc96d7a31d45c894bcc1"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:44.000000Z"/>
+<entry
+   committed-rev="4"
+   name="vending.png"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="8fea0678ecc840df06c927a3904e0c05"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:44.000000Z"/>
+<entry
+   committed-rev="4"
+   name="duke_wave.gif"
+   text-time="2005-11-07T18:01:44.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="5b4587fef6c29e64ab468c6a72dff813"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:44.000000Z"/>
+</wc-entries>

@@ -1,0 +1,28 @@
+# Firefox search bar plugin for King's Quest Omnipedia wiki at http://kq.sq7.org
+# Author: Matt Holden (matt@mattholden.com)
+
+# revision history:
+# 1.0: icon & search plugin created
+
+<search
+ version="7.1"
+ name="King's Quest Omnipedia"
+ description="King's Quest Omnipedia Search"
+ action="http://www.sq7.org/KQ/index.php/Special:Search"
+ searchForm="http://www.sq7.org/KQ/index.php/Special:Search"
+ method="GET"
+ queryEncoding="ISO-8859-1"
+ queryCharset="ISO-8859-1"
+>
+
+<input name="sourceid" value="KQOmnipedia_FirefoxSearchBar">
+<input name="search" user="">
+
+</search>
+
+
+<browser
+ update="http://www.slage.com/firefox/kqomni_firefoxsearch.src"
+ updateIcon="http://www.slage.com/firefox/kqomni_firefoxsearch.png"
+ updateCheckDays="7"
+>

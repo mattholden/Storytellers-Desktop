@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="75"
+   name=""
+   committed-date="2005-11-23T03:29:00.497932Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/xml"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="75"
+   name="english_vocabulary.xml"
+   text-time="2005-11-07T18:01:08.000000Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="5aec688404f2f275902947e192bfdbd6"
+   last-author="jaeden"
+   kind="file"/>
+<entry
+   committed-rev="41"
+   name="XMLProcessor.java"
+   text-time="2005-11-11T12:09:07.250000Z"
+   committed-date="2005-11-11T12:10:19.851048Z"
+   checksum="638898abfd726fb1cd4db15dbe549b08"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:20.000000Z"/>
+<entry
+   committed-rev="55"
+   name="XMLProcessor.class"
+   text-time="2005-11-19T14:20:49.359375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="beea5250594cdb1f0bf80de7b0ff16e1"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:28.578125Z"/>
+<entry
+   committed-rev="75"
+   name="vocabulary.xsd"
+   text-time="2005-11-07T18:01:08.000000Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="6a2cfd9fe08c34fecd30230937fbf28f"
+   last-author="jaeden"
+   kind="file"/>
+<entry
+   committed-rev="73"
+   name="XMLProcessor$1.class"
+   text-time="2005-11-23T02:03:49.515625Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="23e013d9c9dfce7d321180ad575fbe6e"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:06:00.437500Z"/>
+<entry
+   committed-rev="4"
+   name=".nbattrs"
+   text-time="2005-11-07T18:01:58.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="a2587f781cea1b97f48af23c721fec4f"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:58.000000Z"/>
+</wc-entries>

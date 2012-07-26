@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2005-11-07T01:59:32.930264Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/tests/xml/testfiles"
+   last-author="kevlar"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="4"
+   name="simpleObject.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="c43f9978fbc9eddcc880f2700729978d"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="ImageTest.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="54d706fa777e96c085992f09dfd92bdb"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="objectWithNestedTemplates.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="c1477b58d2a149aa90ad6fe8866968a1"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="objectWithStateXML.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="5760fceb1bab1185b654070400dcb2ce"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="objectXML.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="fdfae96f22f15932368931b02e33055b"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="actXML.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="6490c1c18af3124cfd9616ba5e111d2c"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="objectWithConditionalHandlersXML.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="a7d203b8cfa3d00cb5276310138573c1"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="ImageTest_static.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="f7b7d042e471b5e054ec6ce276b9b1aa"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="clickBoundary.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="23e3e91fa989d1a260c2d86a4876aed1"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="gameXML.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="ed70f5b7a33df26ad70fa12aaf918135"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="template_MainCharacter.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="6f6d47b7c47ada208b49b082c42e2b75"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="roomXML.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="30e4ced2143b25f7ac2d7bd7ba50d59f"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="objectWithTemplate.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="caa4e5f23aee409fa3a9df7300cad1fc"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="includeXML.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="0284ac6432852612a007ade109497386"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="objectWithHandlersXML.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="3a826a5a7124d9caddb04ca53d839dae"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="gameVerbSynonyms.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="66d957c6f2bd04cd1bc58424a66ff6c4"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="4"
+   name="sceneXML.xml"
+   text-time="2005-11-07T18:01:38.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="c2728a100455bc59d693b02e0cf320fe"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+</wc-entries>

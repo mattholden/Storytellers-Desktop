@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="75"
+   name=""
+   committed-date="2005-11-23T03:29:00.497932Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/tests"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="73"
+   name="ImageTest$ImageTestMotion.class"
+   text-time="2005-11-23T02:03:50.531250Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="682b51f6bd627112fc4eeab99fa51c24"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.593750Z"/>
+<entry
+   committed-rev="75"
+   name="SlageObject_Test.class"
+   text-time="2005-11-23T03:28:46.187500Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="f38a051a3b1026f3778d2c4a5e2f6825"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.687500Z"/>
+<entry
+   committed-rev="75"
+   name="ImageTest.class"
+   text-time="2005-11-23T03:28:47.375000Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="d330e58851564c73ffb9cadca3808376"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.609375Z"/>
+<entry
+   committed-rev="4"
+   name="Act_Test.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="a08e626409d2717f2f539f143c548cc3"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="SlagePlayer_Test.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="279197dae3a093fd07ef402d04f6b072"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="73"
+   name="ImageTest$PrintHistory.class"
+   text-time="2005-11-23T02:03:50.531250Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="4b9ef132d48e9c898b06b6d6658ffbf6"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.609375Z"/>
+<entry
+   committed-rev="75"
+   name="Room_Test.java"
+   text-time="2005-11-23T02:54:23.703125Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="983a44b4845618ed986fb27271c69015"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:08.000000Z"/>
+<entry
+   name="pathfinding"
+   kind="dir"/>
+<entry
+   committed-rev="73"
+   name="ObjectTests.class"
+   text-time="2005-11-23T02:03:51.125000Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="50e1bd944f7f80c381028ecc9e0e7ece"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.640625Z"/>
+<entry
+   committed-rev="73"
+   name="GeometryTest.class"
+   text-time="2005-11-23T02:03:51.953125Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="16eb8ae6bbc29ee5b09de1317749868f"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.546875Z"/>
+<entry
+   committed-rev="73"
+   name="Scene_Test.class"
+   text-time="2005-11-23T02:03:51.734375Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="ae531bd63b5031e460aaec6a3a458e0a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.656250Z"/>
+<entry
+   committed-rev="73"
+   name="AllSlageNgTests.class"
+   text-time="2005-11-23T02:03:51.609375Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="e4bb541ef4b8ea8330c889930647a826"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.531250Z"/>
+<entry
+   committed-rev="75"
+   name="ImageTest.java"
+   text-time="2005-11-23T03:15:45.828125Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="5ef621a7f5aa7f6165f7b92efa383dc5"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T03:26:58.781250Z"/>
+<entry
+   committed-rev="8"
+   name="ToolsTests.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T09:03:15.633111Z"
+   checksum="c0e4fb5329316db27cc15ac0c172ec4b"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="73"
+   name="ImageTest$CycleRenderHandler.class"
+   text-time="2005-11-23T02:03:50.531250Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="48b3f9dcaa76d7b007c7eb6fe9dab2b2"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.578125Z"/>
+<entry
+   committed-rev="73"
+   name="SlageObject_Test$1.class"
+   text-time="2005-11-23T02:03:49.437500Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="a2e4a3f801f7cccbf5fbaa189e486525"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.671875Z"/>
+<entry
+   name="content"
+   kind="dir"/>
+<entry
+   committed-rev="73"
+   name="SlagePlayer_Test.class"
+   text-time="2005-11-23T02:03:51.187500Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="abc8aff0d56eea4896e6bd2a5985d81e"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.703125Z"/>
+<entry
+   committed-rev="45"
+   name="AllSlageNgTests.java"
+   text-time="2005-11-13T08:41:15.281250Z"
+   committed-date="2005-11-12T21:48:17.881468Z"
+   checksum="2b150e92de5cd66943715ffd65de31a5"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-13T08:41:12.546875Z"/>
+<entry
+   committed-rev="4"
+   name="Scene_Test.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="601d9b487f5f49182efbf4683fe29361"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="75"
+   name="Room_Test.class"
+   text-time="2005-11-23T03:28:46.156250Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="ae5a1c432de8bdea5f29facb7d08a744"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.656250Z"/>
+<entry
+   committed-rev="73"
+   name="ImageTest$ChangeObjectButton.class"
+   text-time="2005-11-23T02:03:50.531250Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="b608697386c7fa3064446eb7f4a61ff0"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.562500Z"/>
+<entry
+   committed-rev="16"
+   name="ConditionalTest.java"
+   text-time="2005-11-09T03:31:08.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="94f6f34c0a3c58cf7c71c6bb87dfc96e"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:08.000000Z"/>
+<entry
+   committed-rev="17"
+   name="IncHandler.java"
+   text-time="2005-11-09T03:31:08.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="c24fade6ae74307f3014b3fb456ede09"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:08.000000Z"/>
+<entry
+   committed-rev="73"
+   name="ToolsTests.class"
+   text-time="2005-11-23T02:03:51.671875Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="c704eaeff95bb64d6547172bccfe784c"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.718750Z"/>
+<entry
+   committed-rev="75"
+   name=".nbattrs"
+   text-time="2005-11-23T02:50:17.062500Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="60f19d8a2b2d1b8ded4acca1cd0f4bee"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:11.046875Z"/>
+<entry
+   name="parser"
+   kind="dir"/>
+<entry
+   name="xml"
+   kind="dir"/>
+<entry
+   committed-rev="75"
+   name="SlageObject_Test.java"
+   text-time="2005-11-23T02:49:51.796875Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="336fe79b71174e1cf2b387b77bc47c15"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:08.000000Z"/>
+<entry
+   committed-rev="73"
+   name="ConditionalTest.class"
+   text-time="2005-11-23T02:03:51.593750Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="1a96bfe6f2cee8ffadc061de8c37242a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.546875Z"/>
+<entry
+   committed-rev="4"
+   name="ObjectTests.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="fa576e891ad1b37a3eb1a52c737de557"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:38.000000Z"/>
+<entry
+   committed-rev="73"
+   name="Act_Test.class"
+   text-time="2005-11-23T02:03:51.015625Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="952cee44e3536cdc9b69b4b7b210bbc6"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.515625Z"/>
+<entry
+   committed-rev="73"
+   name="IncHandler.class"
+   text-time="2005-11-23T02:03:51.953125Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="8ee1d044f19ed71bc9d28a69a21764a7"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.625000Z"/>
+<entry
+   committed-rev="4"
+   name="GeometryTest.java"
+   text-time="2005-11-07T18:01:46.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="e122de7e1ecde7ff27c3e99287020660"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:44.000000Z"/>
+<entry
+   name="util"
+   kind="dir"/>
+</wc-entries>

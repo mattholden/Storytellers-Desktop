@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="55"
+   name=""
+   committed-date="2005-11-15T17:23:54.784079Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/editor/room/actions"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="25"
+   name="drawModeAction.java"
+   text-time="2005-11-09T03:31:12.000000Z"
+   committed-date="2005-11-08T23:22:40.063537Z"
+   checksum="7d23b526b1bd1598d665c1626423c4e3"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-09T03:31:12.000000Z"/>
+<entry
+   committed-rev="55"
+   name="drawModeAction.class"
+   text-time="2005-11-19T14:20:45.265625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="0dd16893926a367c2b374b7fd814a6ec"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:17.312500Z"/>
+</wc-entries>

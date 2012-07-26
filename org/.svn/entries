@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="79"
+   name=""
+   committed-date="2005-11-23T22:18:50.517976Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org"
+   last-author="primitiveOrigin"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   name="slage"
+   kind="dir"/>
+</wc-entries>

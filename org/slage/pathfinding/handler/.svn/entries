@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="73"
+   name=""
+   committed-date="2005-11-23T02:05:51.041801Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/pathfinding/handler"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="4"
+   name="TimedVelocity.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="f7d5ba147525a708b9e8f0201f16cab7"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="73"
+   name="AdvanceAlongPathHandler.class"
+   text-time="2005-11-23T02:03:49.812500Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="216257b6b82118f1b434a87217b4d354"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.343750Z"/>
+<entry
+   committed-rev="73"
+   name="Velocity.class"
+   text-time="2005-11-23T02:03:49.828125Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="147d8eb6adf63afa47c03a08882cd82f"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.390625Z"/>
+<entry
+   committed-rev="73"
+   name="TimedVelocity.class"
+   text-time="2005-11-23T02:03:50.968750Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="c714125e71f98998208895b2a43410f2"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.375000Z"/>
+<entry
+   committed-rev="16"
+   name="MoveToHandler.java"
+   text-time="2005-11-09T03:31:00.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="270b42b4af389d1e3307f239c4b2eb3d"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:00.000000Z"/>
+<entry
+   committed-rev="4"
+   name="SpeedLimitedVelocity.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="2a45668d19adc532abcea3e7f0204bc7"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="73"
+   name="MoveToHandler.class"
+   text-time="2005-11-23T02:03:51.093750Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="06cb72395f50d11d69b78109cb899a9b"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.359375Z"/>
+<entry
+   committed-rev="73"
+   name="SpeedLimitedVelocity.class"
+   text-time="2005-11-23T02:03:50.953125Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="591a68518b162554394f204ff90c4fb3"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.375000Z"/>
+<entry
+   committed-rev="16"
+   name="AdvanceAlongPathHandler.java"
+   text-time="2005-11-09T03:31:00.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="5e5eb4f4f92c61bd4e2067bc494cf1b6"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:00.000000Z"/>
+<entry
+   committed-rev="4"
+   name="Velocity.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="cbdd34d1f78f941039117c8769180254"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+</wc-entries>

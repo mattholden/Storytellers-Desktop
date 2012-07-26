@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<!--
+
+  @(#)package.html	1.00 2005/11/23
+
+  Copyright 2005 Matthew L. Holden
+  http://www.geminisystem.org
+  
+  org.gemini.sources
+  
+-->
+</head>
+<body bgcolor="white">
+
+The <code>org.gemini.sources</code> package defines the classes needed to interact
+with source material in the Gemini System API. "Source Material" is defined here as
+any book, magazine, publication, or Web site which presents data (defined here as 
+races, classes, prestige classes, spells, skills, psionic powers, feats, inventory 
+items, NPCs, campaign settings, rule sets, and all other rule-based objects in the Gemini
+System). 
+
+These sources are kept in order to ensure compliance with the licensing and attribution
+requirements of most gaming systems, and to properly give credit where it is due.
+
+Data objects which are derived from a source should implement the <code>ObjectFromSource</code>
+interface, and contain a <code>SourceReference</code>. Two subclasses of <code>SourceReference</code>,
+<code>SourceSectionReference</code> and <code>SourcePageReference</code>, are provided to 
+more clearly define the location of the material within the source. These reference objects
+link data objects to their source material.
+
+Source materials are defined by the <code>SourceMaterial</code> class, which tracks information
+about a source - such as its title, author(s), and copyright information. As the <code>SourceMaterial</code>
+class is geared mostly toward sourcebooks, two subclasses have been provided to handle more 
+specialized sources - <code>SourcePeriodical</code> for magazine articles and <code>SourceURL</code>
+for Web sites and electronic downloads.
+
+
+<!-- Put @see and @since tags down here. -->
+@see org.gemini.sources.ObjectFromSource
+@since 1.5.05
+</body>
+</html>

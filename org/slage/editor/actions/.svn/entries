@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="55"
+   name=""
+   committed-date="2005-11-15T17:23:54.784079Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/editor/actions"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="55"
+   name="LoadAction.class"
+   text-time="2005-11-19T14:20:46.921875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="df5abe6f451f838faace341b41d671df"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:21.015625Z"/>
+<entry
+   committed-rev="55"
+   name="NewObjectAction.class"
+   text-time="2005-11-19T14:20:46.968750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="0b2414308735a710cab6d919bca6c3aa"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:21.187500Z"/>
+<entry
+   committed-rev="55"
+   name="NewActAction.class"
+   text-time="2005-11-19T14:20:47.000000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="68314570c51a5b664d342d47eadc2b80"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:21.218750Z"/>
+<entry
+   committed-rev="55"
+   name="QuitAction.class"
+   text-time="2005-11-19T14:20:47.046875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="7ad64c2d2823779b07b658676db03d41"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:21.234375Z"/>
+<entry
+   committed-rev="55"
+   name="NewGameAction.class"
+   text-time="2005-11-19T14:20:47.093750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="f692148386cf97c3b6b5c54a4d9c6f7c"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:21.265625Z"/>
+<entry
+   committed-rev="55"
+   name="AddWordToListAction.class"
+   text-time="2005-11-19T14:20:47.125000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="2ee456f4dcf2094faacca2593d5453c0"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:21.281250Z"/>
+<entry
+   committed-rev="17"
+   name="NewSceneAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="3d5ca9142b43f7107d61b7942e986934"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="17"
+   name="RemoveWordFromListAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="37e02c3570cf22edbb9093ff02cc68e7"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="55"
+   name="NewRoomAction.class"
+   text-time="2005-11-19T14:20:47.171875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="647356f489c1172f6dc08145b60891b6"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:21.328125Z"/>
+<entry
+   committed-rev="55"
+   name="EditorWindowListener.class"
+   text-time="2005-11-19T14:20:47.265625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="9ce3b5f78ac0bca93103435594a8ca0f"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:21.359375Z"/>
+<entry
+   committed-rev="55"
+   name="NewAction.class"
+   text-time="2005-11-19T14:20:47.312500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="8f0a29a6cc4875de037878b6140c713d"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:21.375000Z"/>
+<entry
+   committed-rev="17"
+   name="LoadAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="60d8b17a970c313ab6efa6d281326c13"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="17"
+   name="NewObjectAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="c0eebe1d25de13c58f4d1e7203a13265"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="17"
+   name="NewActAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="e87ba71bf4e7c04565fae2e4bd8d1fe2"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="4"
+   name="QuitAction.java"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="54077877c933020b98573df42d5f4882"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:54.000000Z"/>
+<entry
+   committed-rev="55"
+   name="SaveAction.class"
+   text-time="2005-11-19T14:20:47.343750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="0dce6fbcaae2102aba855a92aadd4e23"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:21.406250Z"/>
+<entry
+   committed-rev="17"
+   name="NewGameAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="05173ade0c1df71f6444a984ef8a6d59"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="17"
+   name="AddWordToListAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="792aab3a3c22bf2fb0c2caaa07c70aa4"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="17"
+   name="NewRoomAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="0971c0c5974e5cfaf506a1517cf0b8e3"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="4"
+   name="EditorWindowListener.java"
+   text-time="2005-11-07T18:01:54.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="b0b9cb2d3bd165ebea9d28f7058ef793"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:54.000000Z"/>
+<entry
+   committed-rev="17"
+   name="NewAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="225b4ed75ac0fd1cb82b75922f84165d"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+<entry
+   committed-rev="55"
+   name="NewSceneAction.class"
+   text-time="2005-11-19T14:20:47.375000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="aa5a0d6cd6e1679a858a59e8766e8b07"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:21.437500Z"/>
+<entry
+   committed-rev="55"
+   name="RemoveWordFromListAction.class"
+   text-time="2005-11-19T14:20:47.421875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="d7d20d0e7f008f356ccaa4dd2a1153f7"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:21.468750Z"/>
+<entry
+   committed-rev="17"
+   name="SaveAction.java"
+   text-time="2005-11-09T03:31:16.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="700a98c3249d8c7dbb63f4672e6aaf32"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:16.000000Z"/>
+</wc-entries>

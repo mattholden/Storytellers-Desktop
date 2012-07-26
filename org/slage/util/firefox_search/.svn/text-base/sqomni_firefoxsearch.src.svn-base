@@ -1,0 +1,28 @@
+# Firefox search bar plugin for Space Quest Omnipedia wiki at http://omni.sq7.org
+# Author: Matt Holden (matt@mattholden.com)
+
+# revision history:
+# 1.0: icon & search plugin created
+
+<search
+ version="7.1"
+ name="Space Quest Omnipedia"
+ description="Space Quest Omnipedia Search"
+ action="http://www.sq7.org/omnipedia/index.php/Special:Search"
+ searchForm="http://www.sq7.org/omnipedia/index.php/Special:Search"
+ method="GET"
+ queryEncoding="ISO-8859-1"
+ queryCharset="ISO-8859-1"
+>
+
+<input name="sourceid" value="SQOmnipedia_FirefoxSearchBar">
+<input name="search" user="">
+
+</search>
+
+
+<browser
+ update="http://www.slage.com/firefox/sqomni_firefoxsearch.src"
+ updateIcon="http://www.slage.com/firefox/sqomni_firefoxsearch.png"
+ updateCheckDays="7"
+>

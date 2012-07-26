@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="73"
+   name=""
+   committed-date="2005-11-23T02:05:51.041801Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/framework/scheduler"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="55"
+   name="RecurringEvent.java"
+   text-time="2005-11-16T14:29:05.593750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="c92eb4eba7109cb8a43b3d0747af3a1b"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:05.484375Z"/>
+<entry
+   committed-rev="55"
+   name="ScheduledEvent.java"
+   text-time="2005-11-16T14:29:05.640625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="5aad0cf0b25c43e04ef918e3207300a6"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:05.531250Z"/>
+<entry
+   committed-rev="73"
+   name="Scheduler.class"
+   text-time="2005-11-23T02:03:48.937500Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="c943a4ba9bf80ced3e4712f9add8c3b3"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.265625Z"/>
+<entry
+   committed-rev="73"
+   name="ScheduledEvent$EventComparator.class"
+   text-time="2005-11-23T02:03:48.812500Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="c8f768ac5638751487302ee26a770e7a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.234375Z"/>
+<entry
+   committed-rev="73"
+   name="RecurringEvent.class"
+   text-time="2005-11-23T02:03:48.812500Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="acb9009874b15b7a4668c516699168e8"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.218750Z"/>
+<entry
+   committed-rev="73"
+   name="ScheduledEvent.class"
+   text-time="2005-11-23T02:03:48.828125Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="655f86a6e0299db6921aa3ddb023177d"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.250000Z"/>
+<entry
+   committed-rev="55"
+   name="Scheduler.java"
+   text-time="2005-11-16T14:29:05.671875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="232a985980345e87ead039fb8560f4f6"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:05.546875Z"/>
+</wc-entries>

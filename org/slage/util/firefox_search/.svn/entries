@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48"
+   name=""
+   committed-date="2005-11-13T09:20:15.101422Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/util/firefox_search"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="48"
+   name="sqomni_firefoxsearch.png"
+   text-time="2005-11-13T08:58:36.296875Z"
+   committed-date="2005-11-13T09:20:15.101422Z"
+   checksum="1f483fb2c88b994a31037c1c0253f9ee"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-13T09:19:58.296875Z"/>
+<entry
+   committed-rev="48"
+   name="sqomni_firefoxsearch.src"
+   text-time="2005-11-13T08:56:19.890625Z"
+   committed-date="2005-11-13T09:20:15.101422Z"
+   checksum="4e62b880491f818a4f3336cdd1a75be8"
+   last-author="jaeden"
+   kind="file"/>
+<entry
+   committed-rev="39"
+   name="slage_firefoxsearch.png"
+   text-time="2005-11-11T09:04:30.140625Z"
+   committed-date="2005-11-11T09:37:32.455575Z"
+   checksum="944235dcbab425af6d54b9431c9b02cb"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-11T09:36:06.265625Z"/>
+<entry
+   committed-rev="39"
+   name="slage_firefoxsearch.src"
+   text-time="2005-11-11T09:05:11.015625Z"
+   committed-date="2005-11-11T09:37:32.455575Z"
+   checksum="384f86df667c33ff7d449f76af2db0ae"
+   last-author="jaeden"
+   kind="file"/>
+<entry
+   committed-rev="48"
+   name="kqomni_firefoxsearch.png"
+   text-time="2005-11-13T09:12:40.890625Z"
+   committed-date="2005-11-13T09:20:15.101422Z"
+   checksum="a8f60accfa99affeeb997a12740d8248"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-13T09:19:58.218750Z"/>
+<entry
+   committed-rev="48"
+   name="kqomni_firefoxsearch.src"
+   text-time="2005-11-13T09:14:30.390625Z"
+   committed-date="2005-11-13T09:20:15.101422Z"
+   checksum="a4ff6d4c7f7a85d3d21b71b009241c05"
+   last-author="jaeden"
+   kind="file"/>
+</wc-entries>

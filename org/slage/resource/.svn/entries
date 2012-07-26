@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="75"
+   name=""
+   committed-date="2005-11-23T03:29:00.497932Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/resource"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="52"
+   name="CachingResourceManager.java"
+   text-time="2005-11-16T14:29:01.968750Z"
+   committed-date="2005-11-14T01:37:40.824976Z"
+   checksum="3b6e3f17a406c43d583b504fba108e67"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-16T14:29:01.890625Z"/>
+<entry
+   committed-rev="73"
+   name="SoftCachingResourceManager.class"
+   text-time="2005-11-23T02:03:50.109375Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="9e691e353412bd01f23dfd9e63fee6f8"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.484375Z"/>
+<entry
+   committed-rev="53"
+   name="AlwaysLoadingResourceManager.java"
+   text-time="2005-11-16T14:29:01.984375Z"
+   committed-date="2005-11-14T06:30:39.336907Z"
+   checksum="c738675be414d2a807c14db5221d08de"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-16T14:29:01.921875Z"/>
+<entry
+   committed-rev="51"
+   name="ResourceManager.java"
+   text-time="2005-11-16T14:29:02.250000Z"
+   committed-date="2005-11-13T22:37:01.961625Z"
+   checksum="3ab662c28e99cb0814c25be9a880dfdb"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-16T14:29:02.046875Z"/>
+<entry
+   committed-rev="73"
+   name="CachingResourceManager.class"
+   text-time="2005-11-23T02:03:50.109375Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="dff7e1b2a42fa9d45bb76d963ded642b"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.437500Z"/>
+<entry
+   committed-rev="73"
+   name="AlwaysLoadingResourceManager.class"
+   text-time="2005-11-23T02:03:49.937500Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="a897fb4542fa998c6cc81cd67c86651b"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.421875Z"/>
+<entry
+   committed-rev="75"
+   name="AbstractResourceManager.java"
+   text-time="2005-11-23T03:11:48.875000Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="d0b8bba808b0f227b1346cb42f2181f2"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:02.078125Z"/>
+<entry
+   committed-rev="50"
+   name="ResourceException.java"
+   text-time="2005-11-16T14:29:02.296875Z"
+   committed-date="2005-11-13T22:35:58.458098Z"
+   checksum="ccc7e0ef8246c8b2695c472d2ebe313a"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-16T14:29:02.140625Z"/>
+<entry
+   committed-rev="73"
+   name="ResourceManager.class"
+   text-time="2005-11-23T02:03:49.953125Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="0286e686b6cc58a4b286682c014b1582"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.468750Z"/>
+<entry
+   committed-rev="50"
+   name="Resource.java"
+   text-time="2005-11-16T14:29:02.328125Z"
+   committed-date="2005-11-13T22:35:58.458098Z"
+   checksum="d31d5ed7e239739571c4916378b20272"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-16T14:29:02.171875Z"/>
+<entry
+   committed-rev="75"
+   name="AbstractResourceManager.class"
+   text-time="2005-11-23T03:28:46.671875Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="4e911e559ab8afcc2426c1f1aca4c74a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.406250Z"/>
+<entry
+   committed-rev="73"
+   name="ResourceException.class"
+   text-time="2005-11-23T02:03:49.953125Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="b6cda6d1258c17d70b1a107d617a41d9"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.453125Z"/>
+<entry
+   committed-rev="54"
+   name="SoftCachingResourceManager.java"
+   text-time="2005-11-16T14:29:02.343750Z"
+   committed-date="2005-11-14T16:23:29.604646Z"
+   checksum="635d97f71b5e3849a84a39a0f649751d"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-16T14:29:02.203125Z"/>
+<entry
+   committed-rev="73"
+   name="Resource.class"
+   text-time="2005-11-23T02:03:51.640625Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="6b6245f97fb6fda8fa35c94816057912"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.437500Z"/>
+</wc-entries>

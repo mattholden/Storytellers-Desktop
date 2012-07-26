@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2005-11-07T01:59:32.930264Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/tests/xml"
+   last-author="kevlar"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   name="testfiles"
+   kind="dir"/>
+</wc-entries>

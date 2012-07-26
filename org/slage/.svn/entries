@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="79"
+   name=""
+   committed-date="2005-11-23T22:18:50.517976Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage"
+   last-author="primitiveOrigin"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   name="animation"
+   kind="dir"/>
+<entry
+   committed-rev="4"
+   name="CollisionStatus.java"
+   text-time="2005-11-07T18:02:02.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="02b31612059a7371b20c9696bac986de"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:26.000000Z"/>
+<entry
+   committed-rev="32"
+   name="SlageObjectVisitor.java"
+   text-time="2005-11-09T18:34:44.000000Z"
+   committed-date="2005-11-09T18:45:47.620898Z"
+   checksum="f4b1be3a000305f7d4145d8a97dee4e2"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:00.000000Z"/>
+<entry
+   committed-rev="55"
+   name="Drawable.class"
+   text-time="2005-11-19T14:20:40.187500Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="be4c2fc33f7ad3a68591caf2eeb5aeca"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:01.656250Z"/>
+<entry
+   committed-rev="84"
+   name="SlageObject.class"
+   text-time="2005-11-24T01:53:31.984375Z"
+   committed-date="2005-11-24T02:07:17.329162Z"
+   checksum="aa35d5c866f2ad5e79ef74c7330daee1"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:01.750000Z"
+   revision="84"/>
+<entry
+   committed-rev="75"
+   name="Boundary.class"
+   text-time="2005-11-23T03:28:44.734375Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="d731778af4235d3f10e76435e9835542"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:01.796875Z"/>
+<entry
+   committed-rev="17"
+   name="Act.java"
+   text-time="2005-11-09T03:31:20.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="06f18b5e849310d712dd59f5524eb3ae"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:00.000000Z"/>
+<entry
+   name="resource"
+   kind="dir"/>
+<entry
+   committed-rev="32"
+   name="SlageCharacter.java"
+   text-time="2005-11-09T18:19:22.000000Z"
+   committed-date="2005-11-09T18:45:47.620898Z"
+   checksum="dc521ca2f2bcf02639e42464cfb88e0f"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="8"
+   name="Clickable.java"
+   text-time="2005-11-07T18:02:02.000000Z"
+   committed-date="2005-11-07T09:03:15.633111Z"
+   checksum="9733fd2834a4e0eeba1aaf77511d124b"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:28.000000Z"/>
+<entry
+   committed-rev="73"
+   name="AbstractSlageObjectVisitor.class"
+   text-time="2005-11-23T02:03:50.187500Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="980c0572b31d8e9abbe78dee1320f57b"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.109375Z"/>
+<entry
+   committed-rev="32"
+   name="TextObject.java"
+   text-time="2005-11-09T18:19:24.000000Z"
+   committed-date="2005-11-09T18:45:47.620898Z"
+   checksum="dc4e03f43b92328b4bba76c13fbe832e"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:00.000000Z"/>
+<entry
+   name="geometry"
+   kind="dir"/>
+<entry
+   name="pathfinding"
+   kind="dir"/>
+<entry
+   name="framework"
+   kind="dir"/>
+<entry
+   committed-rev="73"
+   name="SlageScheduler.class"
+   text-time="2005-11-23T02:03:48.921875Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="02fc8e13057a42ac2d366b355ed6a8c6"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.500000Z"/>
+<entry
+   name="handlers"
+   kind="dir"/>
+<entry
+   name="audio"
+   kind="dir"/>
+<entry
+   committed-rev="85"
+   name="SlageImage.class"
+   text-time="2005-11-24T04:17:18.000000Z"
+   committed-date="2005-11-27T21:34:36.161997Z"
+   checksum="f27817fed0e0275e0b19d7c8c95b0602"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T03:25:38.000000Z"
+   revision="85"/>
+<entry
+   name="tests"
+   kind="dir"/>
+<entry
+   committed-rev="84"
+   name="SlageObject.java"
+   text-time="2005-11-24T01:53:27.421875Z"
+   committed-date="2005-11-24T02:07:17.329162Z"
+   checksum="9464bf5245c4f4cab213fb6d380ca2ad"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:10.578125Z"
+   revision="84"/>
+<entry
+   committed-rev="55"
+   name="CollisionStatus.class"
+   text-time="2005-11-19T14:20:43.125000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="4c7cb0e10fba83ed2c9b55af84b60bda"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:13.531250Z"/>
+<entry
+   committed-rev="77"
+   name="SlageGame.java"
+   text-time="2005-11-24T02:06:46.187500Z"
+   committed-date="2005-11-23T21:44:05.783664Z"
+   checksum="8440dc1d8ed651066863fac43ab494fa"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-24T02:06:45.843750Z"/>
+<entry
+   committed-rev="53"
+   name="AbstractSlageObjectVisitor.java"
+   text-time="2005-11-16T14:29:34.593750Z"
+   committed-date="2005-11-14T06:30:39.336907Z"
+   checksum="9f086cbcf9d270fd61d1003d500c658c"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-16T14:29:13.609375Z"/>
+<entry
+   committed-rev="16"
+   name="SlageScheduler.java"
+   text-time="2005-11-09T03:31:22.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="2ff2dad1b1ac5f20a7075001928dad5d"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:10.000000Z"/>
+<entry
+   committed-rev="84"
+   name="Slage.java"
+   text-time="2005-11-24T01:46:04.296875Z"
+   committed-date="2005-11-24T02:07:17.329162Z"
+   checksum="b192b57a58dc20f8bff2059d0b20fdeb"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:10.000000Z"
+   revision="84"/>
+<entry
+   committed-rev="55"
+   name="Act.class"
+   text-time="2005-11-19T14:20:43.218750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="f8c0f72995a3398ac8c28b319d3e8a7e"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:13.656250Z"/>
+<entry
+   committed-rev="55"
+   name="SlagePlayer.class"
+   text-time="2005-11-19T14:20:43.265625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="161fc2aef111f5b18e3add955f1b5eb1"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:13.687500Z"/>
+<entry
+   committed-rev="4"
+   name="Clickable.class"
+   text-time="2005-11-19T14:20:43.312500Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="aca099498193b3af02d05482afbfcb25"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:46.000000Z"/>
+<entry
+   committed-rev="17"
+   name="Scene.java"
+   text-time="2005-11-09T03:31:22.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="eb8ee40f90b23292933a8f68e76ac110"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:10.000000Z"/>
+<entry
+   name="command"
+   kind="dir"/>
+<entry
+   committed-rev="84"
+   name="SlageImage.java"
+   text-time="2005-11-24T02:06:46.218750Z"
+   committed-date="2005-11-24T02:07:17.329162Z"
+   checksum="94a4ff0a1557ce39ee29d5bc3b0c998d"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-24T02:06:45.953125Z"
+   revision="84"/>
+<entry
+   name="SlageException.class"
+   kind="file"
+   deleted="true"
+   revision="84"/>
+<entry
+   committed-rev="55"
+   name="TextObject.class"
+   text-time="2005-11-19T14:20:44.281250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="dcc09232f6e34f0311bed1c0d6d66851"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:14.781250Z"/>
+<entry
+   committed-rev="75"
+   name="Room.class"
+   text-time="2005-11-23T03:28:45.140625Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="9e250fcebf37388bc621bc4319b75895"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:14.843750Z"/>
+<entry
+   name="conditionals"
+   kind="dir"/>
+<entry
+   name="editor"
+   kind="dir"/>
+<entry
+   committed-rev="32"
+   name="SlagePlayer.java"
+   text-time="2005-11-09T18:19:24.000000Z"
+   committed-date="2005-11-09T18:45:47.620898Z"
+   checksum="5c0aea2f378bc4d10dd0b2a04f48541a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:56.000000Z"/>
+<entry
+   committed-rev="85"
+   name="SlageGame.class"
+   text-time="2005-11-24T04:17:18.000000Z"
+   committed-date="2005-11-27T21:34:36.161997Z"
+   checksum="ebbf03372b79d579a97e5af36aa4a545"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:24.000000Z"
+   revision="85"/>
+<entry
+   committed-rev="75"
+   name=".nbattrs"
+   text-time="2005-11-23T02:46:47.156250Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="19fab4feee09485dd9f9061850528643"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:24.093750Z"/>
+<entry
+   name="parser"
+   kind="dir"/>
+<entry
+   committed-rev="75"
+   name="Room.java"
+   text-time="2005-11-23T02:53:17.031250Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="8f8090c83d3ef1f16e906a8e899fc30d"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:20.000000Z"/>
+<entry
+   committed-rev="4"
+   name="Collidable.class"
+   text-time="2005-11-19T14:20:49.218750Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="384e73d69e45335c6158d63ae3807c7c"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:58.000000Z"/>
+<entry
+   committed-rev="84"
+   name="Slage.class"
+   text-time="2005-11-24T01:53:36.062500Z"
+   committed-date="2005-11-24T02:07:17.329162Z"
+   checksum="6b32f25999539813e881023239d11535"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:28.406250Z"
+   revision="84"/>
+<entry
+   name="xml"
+   kind="dir"/>
+<entry
+   committed-rev="55"
+   name="Scene.class"
+   text-time="2005-11-19T14:20:49.421875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="34b767b2df11dfd361d33dee06c3f501"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:28.687500Z"/>
+<entry
+   committed-rev="8"
+   name="Drawable.java"
+   text-time="2005-11-07T18:02:02.000000Z"
+   committed-date="2005-11-07T09:03:15.633111Z"
+   checksum="527eb2c84749833fc83a16d0c1847a7b"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:58.000000Z"/>
+<entry
+   committed-rev="75"
+   name="Boundary.java"
+   text-time="2005-11-23T02:47:28.937500Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="95c94a1ceb458fa08c15d9e6bbf3ca49"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-09T03:31:20.000000Z"/>
+<entry
+   committed-rev="73"
+   name="SlageObjectVisitor.class"
+   text-time="2005-11-23T02:03:48.296875Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="71dd71caa7c94a37106cec2ea0f586a9"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.484375Z"/>
+<entry
+   committed-rev="8"
+   name="Collidable.java"
+   text-time="2005-11-07T18:02:02.000000Z"
+   committed-date="2005-11-07T09:03:15.633111Z"
+   checksum="0f2cdf02a04216c9c5cf12d4869fc6ab"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:01:58.000000Z"/>
+<entry
+   committed-rev="55"
+   name="SlageCharacter.class"
+   text-time="2005-11-19T14:20:49.453125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="b995f66679e420125d34e51794f9fb85"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:28.765625Z"/>
+<entry
+   name="ui"
+   kind="dir"/>
+<entry
+   name="util"
+   kind="dir"/>
+<entry
+   committed-rev="85"
+   name="SlageGame$1.class"
+   text-time="2005-11-24T04:17:18.000000Z"
+   committed-date="2005-11-27T21:34:36.161997Z"
+   checksum="3b51b9b63b30f00572f337c09b931fbb"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:34.000000Z"
+   revision="85"/>
+</wc-entries>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="75"
+   name=""
+   committed-date="2005-11-23T03:29:00.497932Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/ui"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="73"
+   name="TextRenderer.class"
+   text-time="2005-11-23T02:03:51.906250Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="72f7159f85cf730e66ad6e2d49f63a47"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.750000Z"/>
+<entry
+   committed-rev="55"
+   name="InventoryPanel.class"
+   text-time="2005-11-19T14:20:49.531250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="e87b241f497c494d089f167134647ecc"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:29.281250Z"/>
+<entry
+   committed-rev="75"
+   name="InventoryCanvas$1.class"
+   text-time="2005-11-23T03:28:45.015625Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="fc3e7627fab38aaf786997ecbee27455"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:29.312500Z"/>
+<entry
+   committed-rev="75"
+   name="ConsolePanel.class"
+   text-time="2005-11-23T03:28:45.453125Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="cb29fd99af9d648d3560c9fb0e9fc3c2"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:29.546875Z"/>
+<entry
+   committed-rev="75"
+   name="KeyHandler.class"
+   text-time="2005-11-23T03:28:45.562500Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="76c17d4a2d5c64f4cfc8192cfb37c534"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:29.609375Z"/>
+<entry
+   committed-rev="75"
+   name="VerbButton.class"
+   text-time="2005-11-23T03:28:45.687500Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="fb2170510bfa7a2c831174d3b90364f1"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:30.375000Z"/>
+<entry
+   committed-rev="75"
+   name="MacroButton.class"
+   text-time="2005-11-23T03:28:46.703125Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="98c359a514bf3143da4d34acc3a7fced"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:30.421875Z"/>
+<entry
+   committed-rev="71"
+   name="ConsolePanel.java"
+   text-time="2005-11-23T03:26:59.703125Z"
+   committed-date="2005-11-22T22:08:28.377789Z"
+   checksum="6045c7796026acbe66f492fac7faede2"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-23T03:26:58.968750Z"/>
+<entry
+   committed-rev="75"
+   name="HandlerButton$1.class"
+   text-time="2005-11-23T03:28:48.843750Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="442510a7c283b274f05effeb103f2456"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:30.515625Z"/>
+<entry
+   committed-rev="75"
+   name="InventoryDisplay.java"
+   text-time="2005-11-23T03:26:59.750000Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="339a4a2ee05f4fc500ee4e575b77e97e"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T03:26:59.015625Z"/>
+<entry
+   committed-rev="75"
+   name="ObjectButton.class"
+   text-time="2005-11-23T03:28:47.375000Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="3f8b9493abdaec0cfee154f0913f38eb"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:30.546875Z"/>
+<entry
+   committed-rev="72"
+   name="KeyHandler.java"
+   text-time="2005-11-23T03:26:59.765625Z"
+   committed-date="2005-11-22T22:08:47.068549Z"
+   checksum="a51682f2d5267dcdb259751f6d288b4b"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-23T03:26:59.078125Z"/>
+<entry
+   committed-rev="75"
+   name="ToolBar.class"
+   text-time="2005-11-23T03:28:45.484375Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="12813d04c6f8e18f94c6c120a5b57486"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:30.656250Z"/>
+<entry
+   committed-rev="65"
+   name="AsyncKeyState.java"
+   text-time="2005-11-19T14:20:52.046875Z"
+   committed-date="2005-11-16T23:12:52.927426Z"
+   checksum="55cbe3b35729966ee2a16337ee18f7ac"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-19T14:20:52.000000Z"/>
+<entry
+   committed-rev="75"
+   name="InventoryCanvas.java"
+   text-time="2005-11-23T03:26:59.828125Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="44badc88aa3f464b7b3ffdc832231682"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T03:26:59.109375Z"/>
+<entry
+   committed-rev="75"
+   name="VerbButton.java"
+   text-time="2005-11-23T03:28:28.187500Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="994c85f5c2e541cb153fdf3cebcd6d31"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T03:26:59.171875Z"/>
+<entry
+   committed-rev="75"
+   name="ConsolePanel$1.class"
+   text-time="2005-11-23T03:28:45.421875Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="67bf3e84b57672d14d425dc197ecf316"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:30.703125Z"/>
+<entry
+   committed-rev="75"
+   name="ConsolePanel$2.class"
+   text-time="2005-11-23T03:28:45.437500Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="5ead161cbc27157399f820735bd86c69"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:30.781250Z"/>
+<entry
+   committed-rev="75"
+   name="ToolBar.java"
+   text-time="2005-11-23T03:26:59.984375Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="ccc243219ccbc40e0bed513462b83b68"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T03:26:59.281250Z"/>
+<entry
+   committed-rev="72"
+   name="ObjectButton.java"
+   text-time="2005-11-23T03:26:59.937500Z"
+   committed-date="2005-11-22T22:08:47.068549Z"
+   checksum="703487e0df3539bbc1923e15c638e081"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-23T03:26:59.234375Z"/>
+<entry
+   committed-rev="75"
+   name="InputAgent.class"
+   text-time="2005-11-23T03:28:45.296875Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="7cc2bbbd0ba8c5c7d3eec8de1d279991"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:30.890625Z"/>
+<entry
+   committed-rev="75"
+   name="VerbButton$1.class"
+   text-time="2005-11-23T03:28:45.671875Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="059d6820c3821efd6f06a895dfe62a26"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:30.953125Z"/>
+<entry
+   committed-rev="72"
+   name="GameCanvas.java"
+   text-time="2005-11-23T03:27:00.015625Z"
+   committed-date="2005-11-22T22:08:47.068549Z"
+   checksum="d5c9a5a6192f620afdddc91c0eabe593"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-23T03:26:59.343750Z"/>
+<entry
+   committed-rev="55"
+   name="MacroButton$1.class"
+   text-time="2005-11-19T14:20:50.203125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="2fafc5c2e15e1f436af538eee8c321d1"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:31.031250Z"/>
+<entry
+   committed-rev="75"
+   name="InventoryDisplay.class"
+   text-time="2005-11-23T03:28:44.406250Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="50d70f88aa03b6b89b4d6c03513870dd"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:31.109375Z"/>
+<entry
+   committed-rev="75"
+   name="GameFrame.class"
+   text-time="2005-11-23T03:28:45.515625Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="e77853d7f7eb987bdc4faf17548f663a"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:31.265625Z"/>
+<entry
+   committed-rev="73"
+   name="AsyncKeyAction.class"
+   text-time="2005-11-23T02:03:49.156250Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="1b27e872a914313243f1e39fc899352e"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:31.156250Z"/>
+<entry
+   committed-rev="72"
+   name="HandlerButton.java"
+   text-time="2005-11-23T03:27:00.046875Z"
+   committed-date="2005-11-22T22:08:47.068549Z"
+   checksum="10a2209d3cc12587a8e7bc801084115d"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-23T03:26:59.421875Z"/>
+<entry
+   committed-rev="16"
+   name="TextRenderer.java"
+   text-time="2005-11-09T03:31:20.000000Z"
+   committed-date="2005-11-08T07:06:55.382591Z"
+   checksum="b7b90c349ba4802eb7e355dfea87ea24"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:20.000000Z"/>
+<entry
+   committed-rev="73"
+   name="AsyncKeyState.class"
+   text-time="2005-11-23T02:03:49.328125Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="4bfbd4dffae3544a0f5c13adfdfa0097"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:31.406250Z"/>
+<entry
+   committed-rev="75"
+   name=".nbattrs"
+   text-time="2005-11-23T02:44:23.687500Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="f9c38d22ad8251d73b14c5773e376df0"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:31.390625Z"/>
+<entry
+   committed-rev="4"
+   name="InventoryPanel.java"
+   text-time="2005-11-07T18:02:00.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="6012b13834748b95a9b6b39302882974"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:02:00.000000Z"/>
+<entry
+   committed-rev="75"
+   name="InventoryCanvas.class"
+   text-time="2005-11-23T03:28:45.031250Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="a37ef771bb375d1fb022111429cd4c13"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:31.546875Z"/>
+<entry
+   committed-rev="72"
+   name="InputAgent.java"
+   text-time="2005-11-23T03:27:00.062500Z"
+   committed-date="2005-11-22T22:08:47.068549Z"
+   checksum="c9cf26139b155e8eb85f47096036cac6"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-23T03:26:59.468750Z"/>
+<entry
+   committed-rev="75"
+   name="ToolBarButton.class"
+   text-time="2005-11-23T03:28:45.656250Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="c0e3ba5faf7ef1d81a07dc8a12fba1e8"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:31.640625Z"/>
+<entry
+   committed-rev="64"
+   name="AsyncKeyAction.java"
+   text-time="2005-11-19T14:20:52.109375Z"
+   committed-date="2005-11-16T23:12:36.374120Z"
+   checksum="e210be52fab8d9ac3b7c7617c76a04ac"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-19T14:20:52.031250Z"/>
+<entry
+   committed-rev="72"
+   name="GameFrame.java"
+   text-time="2005-11-23T03:27:00.093750Z"
+   committed-date="2005-11-22T22:08:47.068549Z"
+   checksum="cb639e98bbb0eec3d65d28793766319a"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-23T03:26:59.531250Z"/>
+<entry
+   committed-rev="75"
+   name="GameCanvas.class"
+   text-time="2005-11-23T03:28:45.718750Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="12d38bb07c954e54fbef21a6f3b4fd52"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:31.812500Z"/>
+<entry
+   committed-rev="72"
+   name="MacroButton.java"
+   text-time="2005-11-23T03:27:00.125000Z"
+   committed-date="2005-11-22T22:08:47.068549Z"
+   checksum="55ac0aa4674785a909b4550fd2079c1a"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-23T03:26:59.578125Z"/>
+<entry
+   committed-rev="75"
+   name="HandlerButton.class"
+   text-time="2005-11-23T03:28:48.843750Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="2f785bbec0da622eeb3c09d55060b37e"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:32.250000Z"/>
+<entry
+   committed-rev="75"
+   name="ToolBarButton.java"
+   text-time="2005-11-23T03:27:00.171875Z"
+   committed-date="2005-11-23T03:29:00.497932Z"
+   checksum="5f336c354e9f0e630280c1407d560fac"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T03:26:59.625000Z"/>
+</wc-entries>

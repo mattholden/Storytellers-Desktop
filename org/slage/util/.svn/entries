@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="79"
+   name=""
+   committed-date="2005-11-23T22:18:50.517976Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/util"
+   last-author="primitiveOrigin"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="73"
+   name="SoftHashMap.class"
+   text-time="2005-11-23T02:03:50.000000Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="c9c4c02745cab54762bd16817bca3af7"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:06:00.421875Z"/>
+<entry
+   committed-rev="55"
+   name="MPLAdder$1.class"
+   text-time="2005-11-19T14:20:50.625000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="1d8511a8bff01a2eaf3290326ae80fba"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:00.328125Z"/>
+<entry
+   committed-rev="55"
+   name="MPLAdder$2.class"
+   text-time="2005-11-19T14:20:50.656250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="73159071adaa276db9b64d8b8362fb79"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:00.390625Z"/>
+<entry
+   committed-rev="55"
+   name="MethodListPrinter.class"
+   text-time="2005-11-19T14:20:50.703125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="c7336b0228fd6242cf3917b4744e79b9"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:00.421875Z"/>
+<entry
+   name="firefox_search"
+   kind="dir"/>
+<entry
+   committed-rev="73"
+   name="SoftCachingMap.class"
+   text-time="2005-11-23T02:03:50.125000Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="3621281bc1075fc12736b88843612442"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:06:00.390625Z"/>
+<entry
+   committed-rev="4"
+   name=".nbattrs"
+   text-time="2005-11-24T02:06:45.078125Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="9864091be211bda95102d7717464cda1"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:02:02.000000Z"/>
+<entry
+   committed-rev="55"
+   name="MPLAdder.class"
+   text-time="2005-11-19T14:20:50.765625Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="c072d4f01d54a918f8c9c87a09220748"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:00.578125Z"/>
+<entry
+   committed-rev="53"
+   name="SoftHashMap.java"
+   text-time="2005-11-16T14:29:00.875000Z"
+   committed-date="2005-11-14T06:30:39.336907Z"
+   checksum="743f9d1f175c196cee5d3863ae2e33bc"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-16T14:29:00.625000Z"/>
+<entry
+   committed-rev="17"
+   name="MethodListPrinter.java"
+   text-time="2005-11-09T03:31:20.000000Z"
+   committed-date="2005-11-08T08:46:45.749518Z"
+   checksum="0b94f7636f85dc5cc46ff34afbc26bcb"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-09T03:31:20.000000Z"/>
+<entry
+   committed-rev="79"
+   name="MPL_paste.txt"
+   text-time="2005-11-24T02:06:46.140625Z"
+   committed-date="2005-11-23T22:18:50.517976Z"
+   checksum="343b61ac1d8877b63c832b42b621075c"
+   last-author="primitiveOrigin"
+   kind="file"
+   prop-time="2005-11-24T02:06:46.109375Z"/>
+<entry
+   committed-rev="73"
+   name="SoftHashMap$1.class"
+   text-time="2005-11-23T02:03:49.984375Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="d725d50fa75d97e04206a649669e5086"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:06:00.406250Z"/>
+<entry
+   committed-rev="53"
+   name="SoftCachingMap.java"
+   text-time="2005-11-16T14:29:00.781250Z"
+   committed-date="2005-11-14T06:30:39.336907Z"
+   checksum="59d3234c2c23062c6772f6b8cecb31e5"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-16T14:29:00.484375Z"/>
+<entry
+   committed-rev="8"
+   name="MPLAdder.java"
+   text-time="2005-11-07T18:02:02.000000Z"
+   committed-date="2005-11-07T09:03:15.633111Z"
+   checksum="6a02ba7287ded9cd929552e281c62fdc"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-07T18:02:00.000000Z"/>
+<entry
+   committed-rev="55"
+   name="MethodListPrinter$1.class"
+   text-time="2005-11-19T14:20:50.734375Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="0f8338fdd9786386c018c6eaa1721533"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:00.531250Z"/>
+<entry
+   committed-rev="73"
+   name="SoftHashMap$SoftValue.class"
+   text-time="2005-11-23T02:03:49.984375Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="dd68a8e02af66ad46c9a4a1e2ff8d3c3"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:06:00.421875Z"/>
+</wc-entries>

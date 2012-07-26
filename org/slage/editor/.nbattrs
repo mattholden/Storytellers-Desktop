@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="GameNodeGUI.java">
+        <attr name="class_dependency_javax.swing.JTabbedPane" stringvalue="GameNodeGUI"/>
+    </fileobject>
+    <fileobject name="ObjectBoundsAndImagesPanel.java">
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="ObjectBoundsAndImagesPanel"/>
+    </fileobject>
+    <fileobject name="ObjectNodeGUI.java">
+        <attr name="class_dependency_javax.swing.JTabbedPane" stringvalue="ObjectNodeGUI"/>
+    </fileobject>
+</attributes>

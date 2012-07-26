@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="55"
+   name=""
+   committed-date="2005-11-15T17:23:54.784079Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/pathfinding/astar"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="4"
+   name="AStarRouteNode.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="2c13bed34078d71ef7800529637e53a5"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AStarNode.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="a3c1297c0a646b7c317bc379174e1f6f"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AStarSearch.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="31e1d67a4c463d59f7f0ad9df755ee3c"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="55"
+   name="AStarSearchWithRoutesMap.class"
+   text-time="2005-11-19T14:20:40.953125Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="992b6cf971e5a0a56bc9c21f59943637"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:03.531250Z"/>
+<entry
+   committed-rev="55"
+   name="AStarRouteNode.class"
+   text-time="2005-11-19T14:20:41.000000Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="866ab797a7e0935951be65913c9a1589"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:03.687500Z"/>
+<entry
+   committed-rev="55"
+   name="AStarNode.class"
+   text-time="2005-11-19T14:20:41.031250Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="b79d39813f0b1ae829ec1710ddedf996"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:03.984375Z"/>
+<entry
+   committed-rev="4"
+   name="AStarSearch.class"
+   text-time="2005-11-19T14:20:41.093750Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="2a4c0e7bbba5eeabfb2db1277452aa0d"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AStarSearch$1.class"
+   text-time="2005-11-19T14:20:41.140625Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="2e2ecf9c14671154cdfbd2a36626e142"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AStarSearchWithRoutesMap.java"
+   text-time="2005-11-07T18:01:30.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="c5994b0e5503955a5c859168411bc364"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:30.000000Z"/>
+</wc-entries>

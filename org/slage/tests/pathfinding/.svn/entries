@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="55"
+   name=""
+   committed-date="2005-11-15T17:23:54.784079Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/tests/pathfinding"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="4"
+   name="BisecectingPolygonRouteBuilderTest.class"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="7e29650646fed252431a025bcae0f7d7"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="55"
+   name="PathfindingTests.class"
+   text-time="2005-11-19T14:20:42.171875Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="6e64aa483574474d5dd569486c7a08c9"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:10.687500Z"/>
+<entry
+   committed-rev="4"
+   name="AStarTest.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="54e0139053f20dc97b1719d6f6c54105"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name=".nbattrs"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="eef3bdd908689edc2171e1cd618d3de4"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+<entry
+   committed-rev="55"
+   name="AStarTest.class"
+   text-time="2005-11-19T14:20:42.218750Z"
+   committed-date="2005-11-15T17:23:54.784079Z"
+   checksum="369a4f032dd502da145fe064c3584793"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-16T14:29:10.718750Z"/>
+<entry
+   committed-rev="4"
+   name="PathfindingTests.java"
+   text-time="2005-11-07T18:01:36.000000Z"
+   committed-date="2005-11-07T01:59:32.930264Z"
+   checksum="bbc5bb5eddb03832e159290b087e16dd"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-07T18:01:36.000000Z"/>
+</wc-entries>

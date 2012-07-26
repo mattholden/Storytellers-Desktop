@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="73"
+   name=""
+   committed-date="2005-11-23T02:05:51.041801Z"
+   url="https://wush.net/svn/slage/slage-ng/src/org/slage/tests/util"
+   last-author="jaeden"
+   kind="dir"
+   uuid="6f234a3c-d804-0410-8808-8eadd3be2cd9"
+   revision="83"/>
+<entry
+   committed-rev="53"
+   name="UtilTests.java"
+   text-time="2005-11-16T14:29:13.343750Z"
+   committed-date="2005-11-14T06:30:39.336907Z"
+   checksum="a1ff9269546e789a72f25bb8cb62ef33"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-16T14:29:13.312500Z"/>
+<entry
+   committed-rev="73"
+   name="SoftHashMapTest.class"
+   text-time="2005-11-23T02:03:49.859375Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="6d9a50e813d75ed2920120106c49557c"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.718750Z"/>
+<entry
+   committed-rev="73"
+   name="UtilTests.class"
+   text-time="2005-11-23T02:03:51.640625Z"
+   committed-date="2005-11-23T02:05:51.041801Z"
+   checksum="9a9682ad52fee8a6bbd8d00323046d47"
+   last-author="jaeden"
+   kind="file"
+   prop-time="2005-11-23T02:05:51.734375Z"/>
+<entry
+   committed-rev="44"
+   name="SoftHashMapTest.java"
+   text-time="2005-11-13T08:41:15.234375Z"
+   committed-date="2005-11-12T21:35:50.893256Z"
+   checksum="026645d5e18030300c711b7aa23fa64f"
+   last-author="kevlar"
+   kind="file"
+   prop-time="2005-11-13T08:41:15.187500Z"/>
+</wc-entries>

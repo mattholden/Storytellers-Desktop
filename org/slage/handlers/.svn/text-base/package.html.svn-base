@@ -1,0 +1,121 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<!--
+
+  @(#)package.html	
+
+  Copyright 2005 Matthew L. Holden
+
+
+
+-->
+</head>
+<body bgcolor="white">
+
+<font color="#ffffff">Handlers are small Java objects that provide reusable Java functionality to SLAGEObjects and are linkable to them through XML.<font color="#000000"><BR>
+
+<b>
+Definition of a Handler
+</b><p>
+
+Handlers are small Java objects that provide pure-Java functionality to SLAGEObjects without
+the need to define individual SLAGEObjects in their own .java files. Each Handler defines an action that the SLAGEObject can do (or alternatively, a reaction to something the player does). Like SLAGEObject, it is important to remember that Handlers are Java objects, not XML objects. As discussed below, the XML for a Handler can be literally mapped to parameters in a constructor.<P>
+
+A SLAGEObject's list of Handlers can be thought of as its vocabulary of motion. Each action an Object can respond to is defined with a Handler. Adding a Handler to an object can be thought of as functionally equivalent to adding additional methods to a SLAGEObject. The greatest benefit of the Handler architecture is that objects can gain this reusable functionality without having to subclass SLAGEObject for every object in the game. Objects are simply instances of SLAGEObject, rather than subclasses. This drastically reduces code and compile time, and allows the user (defined here as the person developing a game using SLAGE) to create games in more than 90% XML. Giving an object any obscure ability is as simple as implementing a subclass of Handler to accomodate the action. In this way, SLAGEObjects are infinitely expandable.
+<P>
+It is highly likely that most objects will have at least five or six handlers, for all of the major tools (Look, Take, Talk...) on the game's default toolbar. Additional handlers that respond to more obscure verbs provide an excellent vehicle for easter eggs to those players who use the parser.  Because they define actions and can contain whatever member data the Handler author specifies, Handlers are reusable from object to object and project to project. To this end, a set of pre-constructed utility Handlers for common functions are provided with SLAGE in the package org.slage.handlers. It is anticipated that in the future, a public repository for trading custom Handlers will be available at <a href="http://www.slage.com">SLAGE.com</a>, further reducing the amount of Java coding necessary to construct your SLAGE game.<P>
+
+<b>
+Anatomy of a Handler
+</b><p>
+
+The base Handler is very simple in its construction. Handlers can get as complex as the user wishes, though they are intended to provide small chunks of reusable functionality. The Handler system is robust enough to permit the user to write an entire minigame or arcade sequence inside a single Handler, though this is very unadvisable.
+
+<p><b><li>The Contained Object Reference</b><p>
+
+This is the immediate owner SLAGEObject of the Handler. Providing a reference to this object enables the Handler to reference information about the object, Room, Scene, Act, and Game in which it resides. As a very basic example, a handler that responds to a LOOK command might have a line that reads, <p>
+
+<code>"It looks just like a " + getObject().getName() + "!"</code>
+
+<p><b><li>The Verb List</b><p>
+The Handler contains a list of verbs, simply stored as an ArrayList of Strings. These verbs, along with any globally-defined synonyms,<FIXME: Link to help about global synonym list> are the commands that will trigger this Handler. As click events generate text commands much as the command parser does, the command dispatcher is fed a text command containing the verb. A more thorough discussion of this appears below.
+
+<p><b><li>public void fire()</b><p>
+The fire() method is the most important line in the Handler, and perhaps in all of SLAGE. This method will be called when the command dispatcher determines that this handler should be triggered (i.e., when this Handler's parent object receives a verb command that is on this Handler's verb list). This method, therefore, is where the action happens. The fire() method is abstract in the base Handler and thus must be overridden in every Handler subclass. 
+
+<p><b><li>The Constructors</b><p>
+There should be two constructors defined for every Handler subclasses. One should accept whatever parameters the Handler author deems appropriate to create the Handler. These data types will vary depending on the function of the particular Handler. One of these parameters must be a reference to the parent SLAGEObject, as the constructor for the superclass (Handler) requires it as a parameter. 
+
+The second constructor should contain exactly two parameters. The first should be the parent SLAGEObject as described above. The second should be an XML Element, of the class org.jdom.Element. (The class org.w3c.dom.Element is not equivalent and should not be used.) This Element consists of all the XML between and including the tags &lt handler&gt and &lt/handler&gt . It will be passed to the Handler subclass constructor from the xMLProcessor's dispatch() function. 
+
+Both constructors should initialize all member variables needed to support the operation of the Handler. In keeping with the standard that SLAGE games can be built completely in XML or completely without it, your Handlers should provide access to all members and methods necessary for proper operation, either through public members or get/set methods. 
+
+<p><li><b>The XML Syntax</b><p>
+
+The XML syntax of a Handler is as follows:<p>
+
+<code> 
+&lt handler type="org.slage.handlers.ResponseHandler"&gt<br>
+<br>
+  &lt!== There are no limits to the number of verbs linked, but there must be at least one.<br>
+  Note that in addition to verbs listed here, global synonyms also apply. ==&gt
+<br><br>
+  &lt verb word="look" /&gt <br>
+  &lt verb word="examine" /&gt <br><br>
+ 
+  &lt!== Each Handler subclass should define its own XML "schema" as appropriate to the data stored
+  in the individual Handler. This does not require a formal XML schema document, but there is no reason one could not be provided for it. ==&gt<br><br>
+
+&lt/handler&gt<br></code>
+
+As demonstrated, there is very little core XML associated with a Handler. The only point of contention is the <code>type=</code> attribute. This specifies the fully-qualified name (FQN) of the Handler type you wish to link to the parent object. This is the object that will be responsible for parsing the custom XML in the Handler's XML block, in its two-parameter Element/SLAGEObject constructor.
+
+<p>
+
+<p><b>Defining a Handler in Code</b><p>
+
+The process of defining and registering a Handler in pure Java is even easier. In this example, we will register a new <code>FooHandler</code> to the object <code>bar</code>.<p>
+<code>
+SLAGEObject bar = new SLAGEObject("Crowbar");<br>
+<br>
+// Don't use the constructor with the Element parameter - this would probably have more parameters in a real Handler<br>
+FooHandler foo = new FooHandler(bar);<br><br>
+// add verbs to fire this action on <br>
+foo.addVerb("taste"); <br>
+foo.addVerb("lick"); <br><br>
+
+// register the handler with the object<br>
+bar.addHandler(foo);<p></code>
+
+
+<p><b> How a Handler Gets Fired </b><p>
+
+<img src="handler_diagram.PNG"><p>
+
+<p><b> Conditional Handlers </b><p>
+TODO: Discuss conditional states for handlers in code and XML
+
+<p><b>Implementation Notes</b><p>
+
+<li> If multiple Handlers are defined on the same object for the same verb, all Handlers that are not prevented from firing by a conditional state will be fired, and in the order they are defined in code or XML.
+<br><br>
+<li>All SLAGEObjects can have Handlers. This includes objects, Rooms, Scenes, Acts, and even the SLAGEGame itself.<br>
+TODO: Discuss passback heirarchy for Handlers<br><br>
+
+
+<!-- Put @see and @since tags down here. -->
+@since 1/00
+</body>
+</html>
+
+
+
+	
+
+
+
+
+
+

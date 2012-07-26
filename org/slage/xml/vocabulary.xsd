@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Schema for SLAGE parser vocabulary. -->
+<!-- Robert Wenner (robert.wenner@gmx.de) -->
+<!-- $Id$ -->
+<xsd:schema targetNamespace="http://org.slage.parser" 
+xmlns:parser="http://org.slage.parser" 
+xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	
+	<xsd:element name="vocabulary">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element minOccurs="1" maxOccurs="unbounded"  ref="parser:Separator"/>
+				<xsd:choice maxOccurs="unbounded" minOccurs="1">
+					<xsd:element minOccurs="0" maxOccurs="unbounded" ref="parser:Preposition"/>
+					<xsd:element minOccurs="0" maxOccurs="unbounded" ref="parser:Pronoun"/>
+					<xsd:element minOccurs="0" maxOccurs="unbounded" ref="parser:Separator"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attribute name="parser" type="parser:javaclass" use="required"/>
+		</xsd:complexType>
+		
+		<xsd:unique name="uniqueWords">
+			<xsd:selector xpath="*"/>
+			<xsd:field xpath="@word"/>
+		</xsd:unique>
+		
+		<xsd:key name="prepositionWord">
+			<xsd:selector xpath="Preposition"/>
+			<xsd:field xpath="@word"/>
+		</xsd:key>
+	</xsd:element>
+	
+	<xsd:element name="Preposition">
+	<xsd:complexType >
+		<xsd:attribute name="word" type="parser:word" use="required"/>
+		<xsd:attribute name="code" type="parser:code" use="required"/>
+		<xsd:attribute name="provideNoun" type="parser:provideNoun" use="required"/>
+	</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Pronoun">
+	<xsd:complexType >
+		<xsd:attribute name="word" type="parser:word" use="required"/>
+		<xsd:attribute name="gender" type="parser:gender" use="required"/>
+		<xsd:attribute name="number" type="parser:number" use="required"/>
+	</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Separator">
+	<xsd:complexType >
+		<xsd:attribute name="word" type="parser:word" use="required"/>
+	</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:simpleType name="javaclass">
+		<xsd:restriction base="xsd:string">
+			<xsd:pattern value="([a-z0-9]+.)+[A-Za-z0-9]+"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<xsd:simpleType name="word">
+		<xsd:restriction base="xsd:string">
+			<xsd:pattern value="[a-zA-Z]+"/>
+			<!-- Upper and lower case allowed, to circumvent the unique words
+			limitation and allow "them" for male, female, and neutral words. -->
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<xsd:simpleType name="code">
+		<xsd:restriction base="xsd:string">
+			<xsd:pattern value="[A-Z]+"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<xsd:simpleType name="gender">
+		<xsd:restriction base="xsd:string">
+			<xsd:pattern value="male|female|neutral"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<xsd:simpleType name="number">
+		<xsd:restriction base="xsd:string">
+			<xsd:pattern value="singular|plural"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<xsd:simpleType name="provideNoun">
+		<xsd:restriction base="xsd:string">
+			<xsd:pattern value="always|never|unlessGiven"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+</xsd:schema>
+
+
+<!--/****** BEGIN LICENSE BLOCK *****
+* Version: MPL 1.1/GPL 2.0/LGPL 2.1
+*
+* The contents of this file are subject to the Mozilla Public License Version
+* 1.1 (the "License"); you may not use this file except in compliance with
+* the License. You may obtain a copy of the License at
+* http://www.mozilla.org/MPL/
+*
+* Software distributed under the License is distributed on an "AS IS" basis,
+* WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+* for the specific language governing rights and limitations under the
+* License.
+*
+* The Original Code is Slage.
+*
+* The Initial Developer of the Original Code is
+* The SQ7.org project.
+* Portions created by the Initial Developer are Copyright (C) 2005
+* the Initial Developer. All Rights Reserved.
+*
+* Contributor(s):
+* Matt Holden (Matt@sq7.org)
+* Robert Wenner (Robert@sq7.org)
+* Jared Cope (Jared@sq7.org)  
+* Colin Davis (Colin@sq7.org)
+*
+* Alternatively, the contents of this file may be used under the terms of
+* either the GNU General Public License Version 2 or later (the "GPL"), or
+* the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+* in which case the provisions of the GPL or the LGPL are applicable instead
+* of those above. If you wish to allow use of your version of this file only
+* under the terms of either the GPL or the LGPL, and not to allow others to
+* use your version of this file under the terms of the MPL, indicate your
+* decision by deleting the provisions above and replace them with the notice
+* and other provisions required by the GPL or the LGPL. If you do not delete
+* the provisions above, a recipient may use your version of this file under
+* the terms of any one of the MPL, the GPL or the LGPL.
+*
+****** END LICENSE BLOCK ***** */-->
